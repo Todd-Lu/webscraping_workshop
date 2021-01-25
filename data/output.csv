@@ -1,0 +1,601 @@
+case_num,date_filed,status,num_employees,location,nlrb_region,case_url,charged_party
+12-CB-271717,01/25/2021,Open,2,"Guaynabo, PR","Region 12, Tampa, Florida",https://www.nlrb.gov/case/12-CB-271717,National Association of Letter Carriers Local 869 (United States Postal Service - Guaynabo PO)
+03-CA-271718,01/25/2021,Open,150,"Newfane, NY","Region 03, Buffalo, New York",https://www.nlrb.gov/case/03-CA-271718,Newfane Rehabilitation and Health Care Center
+03-CB-271720,01/25/2021,Open,193,"Tonawanda, NY","Region 03, Buffalo, New York",https://www.nlrb.gov/case/03-CB-271720,Unifrax I LLC
+25-CA-271721,01/25/2021,Open,500,"Indianapolis, IN","Region 25, Indianapolis, Indiana",https://www.nlrb.gov/case/25-CA-271721,United States Postal Service
+04-CA-271726,01/25/2021,Open,50,"Mount Laurel, NJ","Region 04, Philadelphia, Pennsylvania",https://www.nlrb.gov/case/04-CA-271726,"Republic Services of New Jersey, LLC"
+10-CA-271729,01/25/2021,Open,300,"Raleigh, NC","Region 10, Atlanta, Georgia",https://www.nlrb.gov/case/10-CA-271729,United States Postal Service
+02-CB-271731,01/25/2021,Open,1,"New York, NY","Region 02, New York, New York",https://www.nlrb.gov/case/02-CB-271731,SEIU 32BJ (Allied Universal Security)
+12-CA-271732,01/25/2021,Open,200,"Catano, PR","Region 12, Tampa, Florida",https://www.nlrb.gov/case/12-CA-271732,United States Postal Service
+02-CA-271735,01/25/2021,Open,800,"New York, NY","Region 02, New York, New York",https://www.nlrb.gov/case/02-CA-271735,UPS
+15-CA-271734,01/25/2021,Open,500,"Byhalia, MS","Region 15, New Orleans, Louisiana",https://www.nlrb.gov/case/15-CA-271734,Volvo Group Trucking Operations
+10-CB-271738,01/25/2021,Open,40,"Mount Pleasant, SC","Region 10, Atlanta, Georgia",https://www.nlrb.gov/case/10-CB-271738,"International Longshoremen's Association, Local 1422-A (Charleston Gate, LLC)"
+18-CA-271740,01/25/2021,Open,200,"Racine, WI","Region 18, Minneapolis, Minnesota",https://www.nlrb.gov/case/18-CA-271740,United States Postal Service
+12-CA-271753,01/25/2021,Open,9,"Vieques, PR","Region 12, Tampa, Florida",https://www.nlrb.gov/case/12-CA-271753,United States Postal Service
+08-CA-271752,01/25/2021,Open,50,"Akron, OH","Region 08, Cleveland, Ohio",https://www.nlrb.gov/case/08-CA-271752,"WWCC, LLC dba Wyant Woods Care Center"
+16-CA-271750,01/25/2021,Open,50,"Laredo, TX","Region 16, Fort Worth, Texas",https://www.nlrb.gov/case/16-CA-271750,United States Postal Service
+22-CA-271745,01/25/2021,Open,75,"Von, MA","Region 22, Newark, New Jersey",https://www.nlrb.gov/case/22-CA-271745,"IPC Lydon, LLC"
+25-CA-271756,01/25/2021,Open,60,"Rockford, IL","Region 25, Indianapolis, Indiana",https://www.nlrb.gov/case/25-CA-271756,United States Postal Service
+13-CA-271761,01/25/2021,Open,5000,"Chicago, IL","Region 13, Chicago, Illinois",https://www.nlrb.gov/case/13-CA-271761,United States Postal Service
+07-CA-271762,01/25/2021,Open,100,"Shelby, MI","Region 07, Detroit, Michigan",https://www.nlrb.gov/case/07-CA-271762,Liberty Transit Mix
+04-CA-271759,01/25/2021,Open,45,"Pottstown, PA","Region 04, Philadelphia, Pennsylvania",https://www.nlrb.gov/case/04-CA-271759,Crothall Healthcare
+28-CA-271760,01/25/2021,Open,130,"Henderson, NV","Region 28, Phoenix, Arizona",https://www.nlrb.gov/case/28-CA-271760,Core-mark International
+31-CB-271758,01/25/2021,Open,2,"Lawndale, CA","Region 31, Los Angeles, California",https://www.nlrb.gov/case/31-CB-271758,American Postal Workers Union (United States Postal Service)
+22-CA-271765,01/25/2021,Open,2,"Westfield, NJ","Region 22, Newark, New Jersey",https://www.nlrb.gov/case/22-CA-271765,"ENTACT Services, LLC"
+13-CB-271766,01/25/2021,Open,95,"Warrenville, IL","Region 13, Chicago, Illinois",https://www.nlrb.gov/case/13-CB-271766,"International Union, Security, Police and Fire Professionals of America and its Local 228 (Exelon Nuclear Security, LLC)"
+25-CA-271769,01/25/2021,Open,400,"Indianapolis, IN","Region 25, Indianapolis, Indiana",https://www.nlrb.gov/case/25-CA-271769,UNITED STATES POSTAL SERVICE
+19-CA-271767,01/25/2021,Open,75,"Richland, WA","Region 19, Seattle, Washington",https://www.nlrb.gov/case/19-CA-271767,Lourdes Health d/b/a Lourdes Counseling Center
+29-CA-271771,01/25/2021,Open,500,"Brooklyn, NY","Region 29, Brooklyn, New York",https://www.nlrb.gov/case/29-CA-271771,HomeServe USA
+15-CA-271770,01/25/2021,Open,600,"West Monroe, LA","Region 15, New Orleans, Louisiana",https://www.nlrb.gov/case/15-CA-271770,"Graphic Packaging International,. Plant 31"
+25-CA-271776,01/25/2021,Open,1,"South Bend, IN","Region 25, Indianapolis, Indiana",https://www.nlrb.gov/case/25-CA-271776,United States Postal Service
+05-CA-271772,01/24/2021,Open,37,"Hunt Valley, MD","Region 05, Baltimore, Maryland",https://www.nlrb.gov/case/05-CA-271772,Green Bay Packaging
+01-CA-271689,01/22/2021,Open,100,"Stamford, CT","Region 01, Boston, Massachusetts",https://www.nlrb.gov/case/01-CA-271689,United States Postal Service
+19-CA-271679,01/22/2021,Open,22,"Vancouver, WA","Region 19, Seattle, Washington",https://www.nlrb.gov/case/19-CA-271679,Phoenix Protective Corporation
+08-CB-271700,01/22/2021,Open,900,"Cleveland, OH","Region 08, Cleveland, Ohio",https://www.nlrb.gov/case/08-CB-271700,"United Autoworkers Local 1050 (Howmet Aerospace, Inc.)"
+10-CA-271647,01/22/2021,Open,100,"Anderson, SC","Region 10, Atlanta, Georgia",https://www.nlrb.gov/case/10-CA-271647,United Parcel Service
+29-CA-271663,01/22/2021,Open,3,"Brooklyn, NY","Region 29, Brooklyn, New York",https://www.nlrb.gov/case/29-CA-271663,Kehila Chapels
+08-CA-271698,01/22/2021,Open,4,"Akron, OH","Region 08, Cleveland, Ohio",https://www.nlrb.gov/case/08-CA-271698,"American Made Bags, LLC"
+25-CB-271688,01/22/2021,Open,1,"Indianapolis, IN","Region 25, Indianapolis, Indiana",https://www.nlrb.gov/case/25-CB-271688,Indiana Mailer Union No. 2001 (Indianapolis Star Press)
+08-CA-271692,01/22/2021,Open,7,"Howard, OH","Region 08, Cleveland, Ohio",https://www.nlrb.gov/case/08-CA-271692,Leister Legacy Limited d/b/a Select Materials
+08-CA-271702,01/22/2021,Open,900,"Cleveland, OH","Region 08, Cleveland, Ohio",https://www.nlrb.gov/case/08-CA-271702,"Howmet Aerospace, Inc."
+20-CA-271710,01/22/2021,Open,300,"Honolulu, HI","Region 20, San Francisco, California",https://www.nlrb.gov/case/20-CA-271710,Kyo-ya Hotel & Resorts Princess Kaiulani Hotel
+04-CA-271654,01/22/2021,Open,50,"Bethlehem, PA","Region 04, Philadelphia, Pennsylvania",https://www.nlrb.gov/case/04-CA-271654,Bethlehem Haulage
+04-CA-271684,01/22/2021,Open,300,"Philadelphia, PA","Region 04, Philadelphia, Pennsylvania",https://www.nlrb.gov/case/04-CA-271684,"Triple Canopy, a Constellis Company"
+16-CA-271696,01/22/2021,Open,600,"Baytown, TX","Region 16, Fort Worth, Texas",https://www.nlrb.gov/case/16-CA-271696,ExxonMobil Fuels and Lubricants
+16-CA-271665,01/22/2021,Open,80,"Odessa, TX","Region 16, Fort Worth, Texas",https://www.nlrb.gov/case/16-CA-271665,United States Postal Service
+28-CA-271683,01/22/2021,Open,100,"Albuquerque, NM","Region 28, Phoenix, Arizona",https://www.nlrb.gov/case/28-CA-271683,Warner Bros. Television
+12-CA-271685,01/22/2021,Open,67,"San Juan, PR","Region 12, Tampa, Florida",https://www.nlrb.gov/case/12-CA-271685,"Servicios Legales de Puerto Rico, Inc."
+14-CA-271668,01/22/2021,Open,700,"Kansas City, MO","Region 14, Saint Louis, Missouri",https://www.nlrb.gov/case/14-CA-271668,United States Postal Service
+16-CA-271693,01/22/2021,Open,600,"Baytown, TX","Region 16, Fort Worth, Texas",https://www.nlrb.gov/case/16-CA-271693,ExxonMobil Fuels and Lubricants
+12-CA-271703,01/22/2021,Open,200,"Tallahassee, FL","Region 12, Tampa, Florida",https://www.nlrb.gov/case/12-CA-271703,United States Postal Service
+18-CB-271690,01/22/2021,Open,5000,"Amana, IA","Region 18, Minneapolis, Minnesota",https://www.nlrb.gov/case/18-CB-271690,International Association of Machinist and Aerospace Workers Local 1526 (Whirlpool)
+01-CC-271658,01/22/2021,Open,20,"Bridgewater, MA","Region 01, Boston, Massachusetts",https://www.nlrb.gov/case/01-CC-271658,"NORTH ATLANTIC STATES REGIONAL COUNCIL OF CARPENTERS (Callahan, Inc.)"
+02-CA-271652,01/22/2021,Open,14,"White Plains, NY","Region 02, New York, New York",https://www.nlrb.gov/case/02-CA-271652,Gladiator Building Services
+13-CA-271706,01/22/2021,Open,1600,"Chicago, IL","Region 13, Chicago, Illinois",https://www.nlrb.gov/case/13-CA-271706,University of Chicago Hospitals
+01-CB-271694,01/22/2021,Open,22,"Lincoln, RI","Region 01, Boston, Massachusetts",https://www.nlrb.gov/case/01-CB-271694,LABORERS INTERNATIONAL UNION OF NORTH AMERICA LOCAL 711 (Twin River Casino)
+14-CA-271697,01/22/2021,Open,15,"Kansas City, MO","Region 14, Saint Louis, Missouri",https://www.nlrb.gov/case/14-CA-271697,The Kansas City Chiefs
+28-CA-271680,01/22/2021,Open,50,"Phoenix, AZ","Region 28, Phoenix, Arizona",https://www.nlrb.gov/case/28-CA-271680,Bell Drapery & Cleaners
+01-CA-271715,01/22/2021,Open,200,"Kenyon, RI","Region 01, Boston, Massachusetts",https://www.nlrb.gov/case/01-CA-271715,Kenyon Industries d/b/a Brookwood Finishing Inc.
+12-CA-271713,01/22/2021,Open,30,"Guaynabo, PR","Region 12, Tampa, Florida",https://www.nlrb.gov/case/12-CA-271713,Super Asphalt Pavement
+01-CA-271719,01/22/2021,Open,1000,"Providence, RI","Region 01, Boston, Massachusetts",https://www.nlrb.gov/case/01-CA-271719,United States Postal Service
+22-CA-271722,01/22/2021,Open,4,"Jersey City, NJ","Region 22, Newark, New Jersey",https://www.nlrb.gov/case/22-CA-271722,"ENTACT Services, LLC"
+22-CA-271724,01/22/2021,Open,4,"Woodbridge, NJ","Region 22, Newark, New Jersey",https://www.nlrb.gov/case/22-CA-271724,"ENTACT Services, LLC"
+16-CA-271723,01/22/2021,Open,3,"Plano, TX","Region 16, Fort Worth, Texas",https://www.nlrb.gov/case/16-CA-271723,Vision Battery USA
+06-CA-271728,01/22/2021,Open,400,"Farrell, PA","Region 06, Pittsburgh, Pennsylvania",https://www.nlrb.gov/case/06-CA-271728,NLMK Pennsylvania
+18-CA-271701,01/22/2021,Open,200,"Saint Paul Park, MN","Region 18, Minneapolis, Minnesota",https://www.nlrb.gov/case/18-CA-271701,Marathon Petroleum/St. Paul Park Refinery
+07-CB-271730,01/22/2021,Open,1,"Southfield, MI","Region 07, Detroit, Michigan",https://www.nlrb.gov/case/07-CB-271730,"NALC, Branch 1 (United States Postal Service)"
+16-CA-271742,01/22/2021,Open,50,"Eagle Pass, TX","Region 16, Fort Worth, Texas",https://www.nlrb.gov/case/16-CA-271742,United States Postal Service
+10-CB-271739,01/22/2021,Open,100,"Duluth, GA","Region 10, Atlanta, Georgia",https://www.nlrb.gov/case/10-CB-271739,American Postal Workers Union Local 32 (United States Postal Service)
+28-CA-271741,01/22/2021,Open,500,"Mesa, AZ","Region 28, Phoenix, Arizona",https://www.nlrb.gov/case/28-CA-271741,Safeway Inc.
+22-CA-271736,01/22/2021,Open,75,"Von, MA","Region 22, Newark, New Jersey",https://www.nlrb.gov/case/22-CA-271736,"IPC Lydon, LLC"
+20-CB-271748,01/22/2021,Open,50,"San Francisco, CA","Region 20, San Francisco, California",https://www.nlrb.gov/case/20-CB-271748,SEIU Local 87 (Allied Universal Janitorial Services)
+28-CA-271751,01/22/2021,Open,500,"Phoenix, AZ","Region 28, Phoenix, Arizona",https://www.nlrb.gov/case/28-CA-271751,United States Postal Service
+29-CA-271743,01/22/2021,Open,18,"Bay Shore, NY","Region 29, Brooklyn, New York",https://www.nlrb.gov/case/29-CA-271743,Newins Bay Shore Ford
+06-CA-271744,01/22/2021,Open,70,"Glen Dale, WV","Region 06, Pittsburgh, Pennsylvania",https://www.nlrb.gov/case/06-CA-271744,Tecnocap LLC
+19-CA-271755,01/22/2021,Open,25,"West Yellowstone, MT","Region 19, Seattle, Washington",https://www.nlrb.gov/case/19-CA-271755,Delaware North
+22-CA-271754,01/22/2021,Open,75,"Von, MA","Region 22, Newark, New Jersey",https://www.nlrb.gov/case/22-CA-271754,"IPC Lydon, LLC"
+07-CA-271764,01/22/2021,Open,200,"Southfield, MI","Region 07, Detroit, Michigan",https://www.nlrb.gov/case/07-CA-271764,United States Postal Service
+06-CB-271773,01/22/2021,Open,55,"Smethport, PA","Region 06, Pittsburgh, Pennsylvania",https://www.nlrb.gov/case/06-CB-271773,SEIU Healthcare Pennsylvania (Lakeview Healthcare & Rehabilitation Center)
+06-CB-271774,01/22/2021,Open,55,"Smethport, PA","Region 06, Pittsburgh, Pennsylvania",https://www.nlrb.gov/case/06-CB-271774,SEIU Healthcare Pennsylvania (Lakeview Healthcare & Rehabilitation Center)
+16-CA-271775,01/22/2021,Open,125,"Houston, TX","Region 16, Fort Worth, Texas",https://www.nlrb.gov/case/16-CA-271775,"Loomis, US"
+15-CB-271725,01/22/2021,Open,1,"Little Rock, AR","Region 15, New Orleans, Louisiana",https://www.nlrb.gov/case/15-CB-271725,"Security, Police, and Fire Professionals of America (North American Security)"
+10-CA-271601,01/21/2021,Open,100,"Spartanburg, SC","Region 10, Atlanta, Georgia",https://www.nlrb.gov/case/10-CA-271601,United States Postal Service
+05-CA-271627,01/21/2021,Open,45,"Charles Town, WV","Region 05, Baltimore, Maryland",https://www.nlrb.gov/case/05-CA-271627,Willow Tree Healthcare Center
+22-CA-271620,01/21/2021,Open,500,"Newark, NJ","Region 22, Newark, New Jersey",https://www.nlrb.gov/case/22-CA-271620,Saint Michael's Medical Center
+13-CA-271671,01/21/2021,Open,75,"East Chicago, IN","Region 13, Chicago, Illinois",https://www.nlrb.gov/case/13-CA-271671,Marino ware
+03-CA-271631,01/21/2021,Open,3000,"Buffalo, NY","Region 03, Buffalo, New York",https://www.nlrb.gov/case/03-CA-271631,Kaleida Health
+01-CA-271619,01/21/2021,Open,2300,"BOSTON, MA","Region 01, Boston, Massachusetts",https://www.nlrb.gov/case/01-CA-271619,UNITED STATES POSTAL SERVICE
+04-CA-271630,01/21/2021,Open,62,"Bridgeton, NJ","Region 04, Philadelphia, Pennsylvania",https://www.nlrb.gov/case/04-CA-271630,South Jersey Extended Care
+13-CA-271664,01/21/2021,Open,27,"Chicago, IL","Region 13, Chicago, Illinois",https://www.nlrb.gov/case/13-CA-271664,JLO Metal Products
+05-CA-271642,01/21/2021,Open,400,"Baltimore, MD","Region 05, Baltimore, Maryland",https://www.nlrb.gov/case/05-CA-271642,"Sinai Hospital of Baltimore, Inc. d/b/a VSP"
+04-CA-271621,01/21/2021,Open,60,"Abington, PA","Region 04, Philadelphia, Pennsylvania",https://www.nlrb.gov/case/04-CA-271621,Abington Manor
+10-CA-271646,01/21/2021,Open,60,"Murfreesboro, TN","Region 10, Atlanta, Georgia",https://www.nlrb.gov/case/10-CA-271646,United States Postal Service
+05-CA-271644,01/21/2021,Open,1800,"Fort George G Meade, MD","Region 05, Baltimore, Maryland",https://www.nlrb.gov/case/05-CA-271644,Melwood
+21-CB-271707,01/21/2021,Open,100,"Anaheim, CA","Region 21, Los Angeles, California",https://www.nlrb.gov/case/21-CB-271707,Teamsters Local 952 (UPS)
+18-CA-271687,01/21/2021,Open,700,"Madison, WI","Region 18, Minneapolis, Minnesota",https://www.nlrb.gov/case/18-CA-271687,"Oakwood Lutheran Home Association, Inc"
+12-CA-271653,01/21/2021,Open,100,"Carolina, PR","Region 12, Tampa, Florida",https://www.nlrb.gov/case/12-CA-271653,United States Postal Service
+28-CA-271676,01/21/2021,Open,100,"Albuquerque, NM","Region 28, Phoenix, Arizona",https://www.nlrb.gov/case/28-CA-271676,Nusenda Credit Union
+21-CA-271708,01/21/2021,Open,1000,"Pomona, CA","Region 21, Los Angeles, California",https://www.nlrb.gov/case/21-CA-271708,Nestle Waters North America Inc
+15-CA-271643,01/21/2021,Open,0,"Shreveport, LA","Region 15, New Orleans, Louisiana",https://www.nlrb.gov/case/15-CA-271643,United States Postal Service
+22-CA-271612,01/21/2021,Open,12,"Monmouth Junction, NJ","Region 22, Newark, New Jersey",https://www.nlrb.gov/case/22-CA-271612,Liberty Coca-Cola Beverages
+16-CA-271633,01/21/2021,Open,1,"Fort Worth, TX","Region 16, Fort Worth, Texas",https://www.nlrb.gov/case/16-CA-271633,United States Postal Service
+20-CA-271691,01/21/2021,Open,150,"Rocklin, CA","Region 20, San Francisco, California",https://www.nlrb.gov/case/20-CA-271691,United Parcel Service
+22-CA-271625,01/21/2021,Open,500,"Newark, NJ","Region 22, Newark, New Jersey",https://www.nlrb.gov/case/22-CA-271625,Saint Michael's Medical Center
+32-CA-271678,01/21/2021,Open,50,"Richmond, CA","Region 32, Oakland, California",https://www.nlrb.gov/case/32-CA-271678,United Parcel Service
+21-CA-271709,01/21/2021,Open,100,"Los Angeles, CA","Region 21, Los Angeles, California",https://www.nlrb.gov/case/21-CA-271709,United States Postal Service
+28-CA-271704,01/21/2021,Open,5,"Phoenix, AZ","Region 28, Phoenix, Arizona",https://www.nlrb.gov/case/28-CA-271704,AT&T Mobility
+02-CB-271602,01/21/2021,Open,10,"Croton On Hudson, NY","Region 02, New York, New York",https://www.nlrb.gov/case/02-CB-271602,1199SEIU United Healthcare Workers East (Bethel Nursing and Rehabilitation Center)
+16-CA-271614,01/21/2021,Open,42,"Schertz, TX","Region 16, Fort Worth, Texas",https://www.nlrb.gov/case/16-CA-271614,Mondelez
+25-CA-271659,01/21/2021,Open,200,"Indianapolis, IN","Region 25, Indianapolis, Indiana",https://www.nlrb.gov/case/25-CA-271659,United States Postal Service
+08-CA-271598,01/21/2021,Open,204,"Cleveland, OH","Region 08, Cleveland, Ohio",https://www.nlrb.gov/case/08-CA-271598,"PPG, Inc"
+08-CB-271635,01/21/2021,Open,200,"North Baltimore, OH","Region 08, Cleveland, Ohio",https://www.nlrb.gov/case/08-CB-271635,United Auto Workers Local 1889 (Continental Structural Plastics)
+18-CB-271611,01/21/2021,Open,5,"Milwaukee, WI","Region 18, Minneapolis, Minnesota",https://www.nlrb.gov/case/18-CB-271611,OPEIU Local 9 (Amalgamated Transit Union Local 998)
+18-CA-271669,01/21/2021,Open,10,"Fort Yates, ND","Region 18, Minneapolis, Minnesota",https://www.nlrb.gov/case/18-CA-271669,AB Staffing Solutions
+09-CA-271686,01/21/2021,Open,40,"Prestonsburg, KY","Region 09, Cincinnati, Ohio",https://www.nlrb.gov/case/09-CA-271686,United Parcel Service Freight
+06-CA-271681,01/21/2021,Open,100,"Monaca, PA","Region 06, Pittsburgh, Pennsylvania",https://www.nlrb.gov/case/06-CA-271681,Great Arrow Builders
+31-CA-271705,01/21/2021,Open,100,"Rancho Cucamonga, CA","Region 31, Los Angeles, California",https://www.nlrb.gov/case/31-CA-271705,Total Transportation and Distribution Inc. and Marco Flores Trucking Inc. as Joint Employers
+10-CA-271618,01/21/2021,Open,850,"La Vergne, TN","Region 10, Atlanta, Georgia",https://www.nlrb.gov/case/10-CA-271618,Bridgestone America's
+03-CA-271622,01/21/2021,Open,200,"Tonawanda, NY","Region 03, Buffalo, New York",https://www.nlrb.gov/case/03-CA-271622,Unifrax LLC
+07-CB-271648,01/21/2021,Open,5000,"Detroit, MI","Region 07, Detroit, Michigan",https://www.nlrb.gov/case/07-CB-271648,"Local 7, International Union, United Automobile, Aerospace and Agricultural Implement Workers of America (UAW), AFL-CIO (FCA US LLC/ Stellantis JNAP)"
+10-CA-271645,01/21/2021,Open,60,"Murfreesboro, TN","Region 10, Atlanta, Georgia",https://www.nlrb.gov/case/10-CA-271645,United States Postal Service
+06-CB-271682,01/21/2021,Open,100,"Monaca, PA","Region 06, Pittsburgh, Pennsylvania",https://www.nlrb.gov/case/06-CB-271682,"United Association of Journeymen and Apprentices of the Plumbing and Pipefitting Industry of the United States and Canada, AFL-CIO (Great Arrow Builders)"
+27-CA-271667,01/21/2021,Open,19,"Denver, CO","Region 27, Denver, Colorado",https://www.nlrb.gov/case/27-CA-271667,Hussmann Corporation
+13-CA-271673,01/21/2021,Open,400,"Chicago, IL","Region 13, Chicago, Illinois",https://www.nlrb.gov/case/13-CA-271673,Flex N Gate
+15-CA-271616,01/21/2021,Open,300,"Shreveport, LA","Region 15, New Orleans, Louisiana",https://www.nlrb.gov/case/15-CA-271616,United States Postal Service
+03-CA-271606,01/21/2021,Open,100,"Syracuse, NY","Region 03, Buffalo, New York",https://www.nlrb.gov/case/03-CA-271606,Frazer & Jones
+08-CA-271634,01/21/2021,Open,200,"North Baltimore, OH","Region 08, Cleveland, Ohio",https://www.nlrb.gov/case/08-CA-271634,Continental Structural Plastics
+06-CA-271655,01/21/2021,Open,100,"Monaca, PA","Region 06, Pittsburgh, Pennsylvania",https://www.nlrb.gov/case/06-CA-271655,Great Arrow Builders
+06-CB-271649,01/21/2021,Open,100,"Monaca, PA","Region 06, Pittsburgh, Pennsylvania",https://www.nlrb.gov/case/06-CB-271649,"United Association of Journeymen and Apprentices of the Plumbing and Pipefitting Industry of the United States and Canada, AFL-CIO (Great Arrow Builders)"
+07-CA-271660,01/21/2021,Open,200,"Detroit, MI","Region 07, Detroit, Michigan",https://www.nlrb.gov/case/07-CA-271660,United States Postal Service
+10-CA-271624,01/21/2021,Open,2000,"West Columbia, SC","Region 10, Atlanta, Georgia",https://www.nlrb.gov/case/10-CA-271624,United Parcel Service
+25-CA-271651,01/21/2021,Open,1,"East Peoria, IL","Region 25, Indianapolis, Indiana",https://www.nlrb.gov/case/25-CA-271651,Roanoke Concrete Products
+20-CB-271699,01/21/2021,Open,200000,"Rocklin, CA","Region 20, San Francisco, California",https://www.nlrb.gov/case/20-CB-271699,Teamsters Local 150 (United Parcel Service)
+28-CA-271733,01/21/2021,Open,40,"Alamogordo, NM","Region 28, Phoenix, Arizona",https://www.nlrb.gov/case/28-CA-271733,Feyen Zylstra
+09-CB-271768,01/21/2021,Open,2000,"Louisville, KY","Region 09, Cincinnati, Ohio",https://www.nlrb.gov/case/09-CB-271768,"NATIONAL POSTAL MAIL HANDLERS UNION, LOCAL 304 (United States Postal Service)"
+09-CA-271656,01/21/2021,Open,520,"Bardstown, KY","Region 09, Cincinnati, Ohio",https://www.nlrb.gov/case/09-CA-271656,"SAZERAC NORTH AMERICA, INC. D/B/A BARTON 1792 DISTILLERY"
+07-CB-271638,01/20/2021,Open,250,"Detroit, MI","Region 07, Detroit, Michigan",https://www.nlrb.gov/case/07-CB-271638,"Local 212, International Union, United Automobile, Aerospace and Agricultural Implement Workers of America (UAW), AFL-CIO (Spencer/Butcher Group Assemble Rite Ltd."
+15-CA-271564,01/20/2021,Open,600,"Memphis, TN","Region 15, New Orleans, Louisiana",https://www.nlrb.gov/case/15-CA-271564,United States Postal Service
+27-CB-271585,01/20/2021,Open,25,"Salt Lake City, UT","Region 27, Denver, Colorado",https://www.nlrb.gov/case/27-CB-271585,Teamsters Local 222
+15-CB-271597,01/20/2021,Open,500,"Columbus, MS","Region 15, New Orleans, Louisiana",https://www.nlrb.gov/case/15-CB-271597,"International Union of Electronic, Electrical Salaried, Machine and Furniture Workers-Communications Workers of America Local 83770 (M1 Support Services)"
+10-CA-271546,01/20/2021,Open,25,"Simpsonville, SC","Region 10, Atlanta, Georgia",https://www.nlrb.gov/case/10-CA-271546,United States Postal Service
+21-CA-271591,01/20/2021,Open,7,"Norwalk, CA","Region 21, Los Angeles, California",https://www.nlrb.gov/case/21-CA-271591,High Volt Electric
+08-CA-271562,01/20/2021,Open,20,"Akron, OH","Region 08, Cleveland, Ohio",https://www.nlrb.gov/case/08-CA-271562,AT&T
+22-CA-271579,01/20/2021,Open,5,"Cranford, NJ","Region 22, Newark, New Jersey",https://www.nlrb.gov/case/22-CA-271579,Simpson & Brown
+10-CA-271605,01/20/2021,Open,3500,"Spring Hill, TN","Region 10, Atlanta, Georgia",https://www.nlrb.gov/case/10-CA-271605,General Motors
+14-CA-271534,01/20/2021,Open,25,"Florissant, MO","Region 14, Saint Louis, Missouri",https://www.nlrb.gov/case/14-CA-271534,AT&T
+28-CA-271582,01/20/2021,Open,25,"Tucson, AZ","Region 28, Phoenix, Arizona",https://www.nlrb.gov/case/28-CA-271582,"Ross Stores, Inc."
+28-CA-271608,01/20/2021,Open,1350,"Las Vegas, NV","Region 28, Phoenix, Arizona",https://www.nlrb.gov/case/28-CA-271608,NP PALACE LLC d/b/a PALACE STATION HOTEL & CASINO
+01-CA-271568,01/20/2021,Open,50,"Somerville, MA","Region 01, Boston, Massachusetts",https://www.nlrb.gov/case/01-CA-271568,BALFOUR BEATTY
+31-CA-271561,01/20/2021,Open,40,"Palmdale, CA","Region 31, Los Angeles, California",https://www.nlrb.gov/case/31-CA-271561,JVS SoCal
+08-CB-271563,01/20/2021,Open,20,"Akron, OH","Region 08, Cleveland, Ohio",https://www.nlrb.gov/case/08-CB-271563,"Communication Workers of America, (CWA), District Office No. 4 (AT&T)"
+32-CB-271610,01/20/2021,Open,500,"Watsonville, CA","Region 32, Oakland, California",https://www.nlrb.gov/case/32-CB-271610,"California School Employees Association, Chapter 132 (Pajaro Valley Unified School District)"
+05-CB-271538,01/20/2021,Open,50,"Woodlawn, MD","Region 05, Baltimore, Maryland",https://www.nlrb.gov/case/05-CB-271538,"International Union, Security, Police, and Fire Professionals of America and its Local 555 (Walden Security)"
+09-CA-271711,01/20/2021,Open,300,"Cincinnati, OH","Region 09, Cincinnati, Ohio",https://www.nlrb.gov/case/09-CA-271711,Pepsi Beverages
+02-CA-271581,01/20/2021,Closed,13,"New York, NY","Region 02, New York, New York",https://www.nlrb.gov/case/02-CA-271581,MULTIFAMILY MGMT VSERVICES LLC
+12-CA-271603,01/20/2021,Open,80,"Miami, FL","Region 12, Tampa, Florida",https://www.nlrb.gov/case/12-CA-271603,Magic City Casino
+32-CB-271626,01/20/2021,Open,50,"Oakland, CA","Region 32, Oakland, California",https://www.nlrb.gov/case/32-CB-271626,Service Employees International Union - United Healthcare Workers West (Able Janitorial)
+02-CB-271575,01/20/2021,Open,10,"New York, NY","Region 02, New York, New York",https://www.nlrb.gov/case/02-CB-271575,Local 237 (NYCHA)
+08-CA-271551,01/20/2021,Open,200,"Norwalk, OH","Region 08, Cleveland, Ohio",https://www.nlrb.gov/case/08-CA-271551,"Borger Ohio, Inc."
+01-CA-271535,01/20/2021,Open,11,"Waterford, CT","Region 01, Boston, Massachusetts",https://www.nlrb.gov/case/01-CA-271535,"Hot Topic, Inc."
+02-CA-271567,01/20/2021,Open,1000,"White Plains, NY","Region 02, New York, New York",https://www.nlrb.gov/case/02-CA-271567,United States Postal Service
+03-CA-271557,01/20/2021,Open,300,"Lewiston, NY","Region 03, Buffalo, New York",https://www.nlrb.gov/case/03-CA-271557,Ascension Health dba Our Lady of Peace
+21-CA-271590,01/20/2021,Open,100,"Riverside, CA","Region 21, Los Angeles, California",https://www.nlrb.gov/case/21-CA-271590,Total Transportation & Distribution Inc. and Marco Flores Trucking Inc. as joint employers
+10-CA-271600,01/20/2021,Open,8,"Swansea, SC","Region 10, Atlanta, Georgia",https://www.nlrb.gov/case/10-CA-271600,"Tanner Industries, Inc."
+07-CA-271636,01/20/2021,Open,250,"Detroit, MI","Region 07, Detroit, Michigan",https://www.nlrb.gov/case/07-CA-271636,Spencer/Butcher Group Assemble Rite Ltd.
+29-CA-271556,01/20/2021,Open,35,"Far Rockaway, NY","Region 29, Brooklyn, New York",https://www.nlrb.gov/case/29-CA-271556,Blanche Community Day Care Center
+05-CA-271640,01/20/2021,Open,100,"Alexandria, VA","Region 05, Baltimore, Maryland",https://www.nlrb.gov/case/05-CA-271640,United States Postal Service
+21-CA-271588,01/20/2021,Open,50,"Los Angeles, CA","Region 21, Los Angeles, California",https://www.nlrb.gov/case/21-CA-271588,"International Marine Products, Inc."
+25-CA-271629,01/20/2021,Open,1560,"Indianapolis, IN","Region 25, Indianapolis, Indiana",https://www.nlrb.gov/case/25-CA-271629,Allison Transmission
+07-CA-271650,01/20/2021,Open,8,"Millington, MI","Region 07, Detroit, Michigan",https://www.nlrb.gov/case/07-CA-271650,Cardinal's Country Pizza
+02-CB-271716,01/20/2021,Open,50,"New York, NY","Region 02, New York, New York",https://www.nlrb.gov/case/02-CB-271716,1199SEIU United Healthcare Workers East (Bronx Care Hospital)
+02-CA-271714,01/20/2021,Open,10,"New York, NY","Region 02, New York, New York",https://www.nlrb.gov/case/02-CA-271714,"Alba Services, Inc."
+02-CA-271712,01/20/2021,Open,550,"Bronx, NY","Region 02, New York, New York",https://www.nlrb.gov/case/02-CA-271712,Citywide Ambulance
+31-CA-271677,01/20/2021,Open,1000,"Burbank, CA","Region 31, Los Angeles, California",https://www.nlrb.gov/case/31-CA-271677,Walt Disney Corporation
+10-CB-271504,01/19/2021,Open,200,"Charleston, SC","Region 10, Atlanta, Georgia",https://www.nlrb.gov/case/10-CB-271504,Longshoremen ILA Local 1422 (South Carolina Stevedores Association (Various Employers)
+14-CB-271459,01/19/2021,Open,600,"Kansas City, KS","Region 14, Saint Louis, Missouri",https://www.nlrb.gov/case/14-CB-271459,APWU Local 238 (USPS)
+12-CA-271549,01/19/2021,Open,840,"Guaynabo, PR","Region 12, Tampa, Florida",https://www.nlrb.gov/case/12-CA-271549,"AT&T Mobility Services LLC d/b/a AT&T Customer Services, Inc. and/or AT&TMobility USVI, Inc. and Liberty Latin America Ltd. d/b/a LibertyCommunications of Puerto Rico and/or Liberty Puerto Rico"
+15-CA-271529,01/19/2021,Open,155,"Byhalia, MS","Region 15, New Orleans, Louisiana",https://www.nlrb.gov/case/15-CA-271529,Hearthside Food Solutions
+29-CB-271670,01/19/2021,Open,100,"Brooklyn, NY","Region 29, Brooklyn, New York",https://www.nlrb.gov/case/29-CB-271670,"Amalgamated Local 298, Eastern States Joint Board, International Union of Allied Novelty and Productions Workers, AFL-CIO (David Kleiner a/k/a David Green a/k/a David David a/k/a Dovid Kleiner a/k/a David Klein (hereafter, ""Kleiner""), Tiebout II Associates LLC, 2335 Valentine LLC, and 1665 Monroe Assoc LLC)"
+12-CB-271559,01/19/2021,Open,35,"Wellington, FL","Region 12, Tampa, Florida",https://www.nlrb.gov/case/12-CB-271559,National Association of Letter Carriers (United States Postal Service)
+19-CA-271522,01/19/2021,Open,66,"Monroe, WA","Region 19, Seattle, Washington",https://www.nlrb.gov/case/19-CA-271522,"Grady Excavating, Inc."
+28-CB-271539,01/19/2021,Open,100,"Las Vegas, NV","Region 28, Phoenix, Arizona",https://www.nlrb.gov/case/28-CB-271539,Culinary Workers Union Local 226 a/w UNITE HERE International Union (Las Vegas Resort Holdings LLC - Sahara Las Vegas)
+27-CA-271572,01/19/2021,Open,40,"Englewood, CO","Region 27, Denver, Colorado",https://www.nlrb.gov/case/27-CA-271572,DirecTV LLC
+21-CA-271521,01/19/2021,Open,200,"Los Angeles, CA","Region 21, Los Angeles, California",https://www.nlrb.gov/case/21-CA-271521,United States Postal Service
+28-CB-271524,01/19/2021,Open,50,"Albuquerque, NM","Region 28, Phoenix, Arizona",https://www.nlrb.gov/case/28-CB-271524,International Brotherhood of Teamsters Local 492 (RPE Productions [Outer Range Productions])
+22-CB-271599,01/19/2021,Open,12,"Kearny, NJ","Region 22, Newark, New Jersey",https://www.nlrb.gov/case/22-CB-271599,Mailhandlers Union Local 300 (United States Postal Service)
+10-CA-271547,01/19/2021,Open,50,"Angier, NC","Region 10, Atlanta, Georgia",https://www.nlrb.gov/case/10-CA-271547,Carolina Charter Academy
+32-CA-271566,01/19/2021,Open,50,"Concord, CA","Region 32, Oakland, California",https://www.nlrb.gov/case/32-CA-271566,John Muir Behavioral Health
+19-CA-271520,01/19/2021,Open,234,"Missoula, MT","Region 19, Seattle, Washington",https://www.nlrb.gov/case/19-CA-271520,United States Postal Service
+19-CA-271492,01/19/2021,Open,160,"Weston, OR","Region 19, Seattle, Washington",https://www.nlrb.gov/case/19-CA-271492,J&J Snack Foods Handhelds Corp.
+01-CA-271533,01/19/2021,Open,20,"Worcester, MA","Region 01, Boston, Massachusetts",https://www.nlrb.gov/case/01-CA-271533,VERIZON
+10-CA-271499,01/19/2021,Open,300,"Greensboro, NC","Region 10, Atlanta, Georgia",https://www.nlrb.gov/case/10-CA-271499,United States Postal Service
+21-CA-271540,01/19/2021,Open,50,"Mira Loma, CA","Region 21, Los Angeles, California",https://www.nlrb.gov/case/21-CA-271540,"Empire Equipment Service, Inc."
+25-CB-271609,01/19/2021,Open,1,"Evansville, IN","Region 25, Indianapolis, Indiana",https://www.nlrb.gov/case/25-CB-271609,"International Union of Painters and Allied Trades, Local 156 (Robinson Painting & Acoustical Co., Inc.)"
+25-CA-271485,01/19/2021,Open,70,"Indianapolis, IN","Region 25, Indianapolis, Indiana",https://www.nlrb.gov/case/25-CA-271485,United State Postal Service
+27-CA-271483,01/19/2021,Open,40,"Boise, ID","Region 27, Denver, Colorado",https://www.nlrb.gov/case/27-CA-271483,United States Postal Service
+29-CA-271578,01/19/2021,Open,55,"Hicksville, NY","Region 29, Brooklyn, New York",https://www.nlrb.gov/case/29-CA-271578,Perfect Gear and Instrument and Stock Drive Products
+18-CA-271573,01/19/2021,Open,240,"Milwaukee, WI","Region 18, Minneapolis, Minnesota",https://www.nlrb.gov/case/18-CA-271573,Wisconsin Diagnostic Laboratories
+27-CB-271592,01/19/2021,Open,2000,"Denver, CO","Region 27, Denver, Colorado",https://www.nlrb.gov/case/27-CB-271592,APWU Local 229 (United States Postal Service)
+10-CB-271571,01/19/2021,Open,1,"Norton, VA","Region 10, Atlanta, Georgia",https://www.nlrb.gov/case/10-CB-271571,APWU National Union (United States Postal Service)
+19-CA-271489,01/19/2021,Open,160,"Weston, OR","Region 19, Seattle, Washington",https://www.nlrb.gov/case/19-CA-271489,J&J Snack Foods Handhelds Corp.
+19-CA-271488,01/19/2021,Open,160,"Weston, OR","Region 19, Seattle, Washington",https://www.nlrb.gov/case/19-CA-271488,J&J Snack Foods Handhelds Corp.
+27-CB-271592,01/19/2021,Open,2000,"Denver, CO","Region 27, Denver, Colorado",https://www.nlrb.gov/case/27-CB-271592,APWU Local 229 (United States Postal Service)
+14-CB-271459,01/19/2021,Open,600,"Kansas City, KS","Region 14, Saint Louis, Missouri",https://www.nlrb.gov/case/14-CB-271459,APWU Local 238 (USPS)
+10-CA-271547,01/19/2021,Open,50,"Angier, NC","Region 10, Atlanta, Georgia",https://www.nlrb.gov/case/10-CA-271547,Carolina Charter Academy
+12-CB-271559,01/19/2021,Open,35,"Wellington, FL","Region 12, Tampa, Florida",https://www.nlrb.gov/case/12-CB-271559,National Association of Letter Carriers (United States Postal Service)
+19-CA-271491,01/19/2021,Open,160,"Weston, OR","Region 19, Seattle, Washington",https://www.nlrb.gov/case/19-CA-271491,J&J Snack Foods Handhelds Corp.
+10-CB-271571,01/19/2021,Open,1,"Norton, VA","Region 10, Atlanta, Georgia",https://www.nlrb.gov/case/10-CB-271571,APWU National Union (United States Postal Service)
+19-CA-271489,01/19/2021,Open,160,"Weston, OR","Region 19, Seattle, Washington",https://www.nlrb.gov/case/19-CA-271489,J&J Snack Foods Handhelds Corp.
+27-CA-271498,01/19/2021,Open,100,"Englewood, CO","Region 27, Denver, Colorado",https://www.nlrb.gov/case/27-CA-271498,Kent Denver School
+27-CA-271586,01/19/2021,Open,4,"Billings, MT","Region 27, Denver, Colorado",https://www.nlrb.gov/case/27-CA-271586,Coast Property Management
+12-CA-271549,01/19/2021,Open,840,"Guaynabo, PR","Region 12, Tampa, Florida",https://www.nlrb.gov/case/12-CA-271549,"AT&T Mobility Services LLC d/b/a AT&T Customer Services, Inc. and/or AT&TMobility USVI, Inc. and Liberty Latin America Ltd. d/b/a LibertyCommunications of Puerto Rico and/or Liberty Puerto Rico"
+04-CA-271478,01/19/2021,Open,20,"Glen Mills, PA","Region 04, Philadelphia, Pennsylvania",https://www.nlrb.gov/case/04-CA-271478,Urbn Inc.
+29-CB-271670,01/19/2021,Open,100,"Brooklyn, NY","Region 29, Brooklyn, New York",https://www.nlrb.gov/case/29-CB-271670,"Amalgamated Local 298, Eastern States Joint Board, International Union of Allied Novelty and Productions Workers, AFL-CIO (David Kleiner a/k/a David Green a/k/a David David a/k/a Dovid Kleiner a/k/a David Klein (hereafter, ""Kleiner""), Tiebout II Associates LLC, 2335 Valentine LLC, and 1665 Monroe Assoc LLC)"
+01-CA-271550,01/19/2021,Open,20,"Sandwich, MA","Region 01, Boston, Massachusetts",https://www.nlrb.gov/case/01-CA-271550,CANAL GENERATING LLC
+18-CA-271544,01/19/2021,Open,120,"Mendota, MN","Region 18, Minneapolis, Minnesota",https://www.nlrb.gov/case/18-CA-271544,Triple Canopy
+19-CA-271488,01/19/2021,Open,160,"Weston, OR","Region 19, Seattle, Washington",https://www.nlrb.gov/case/19-CA-271488,J&J Snack Foods Handhelds Corp.
+19-CA-271486,01/19/2021,Open,160,"Weston, OR","Region 19, Seattle, Washington",https://www.nlrb.gov/case/19-CA-271486,J&J Snack Foods Handhelds Corp.
+15-CA-271529,01/19/2021,Open,155,"Byhalia, MS","Region 15, New Orleans, Louisiana",https://www.nlrb.gov/case/15-CA-271529,Hearthside Food Solutions
+19-CA-271523,01/19/2021,Open,65,"Seattle, WA","Region 19, Seattle, Washington",https://www.nlrb.gov/case/19-CA-271523,Yellow Roadway Corporation Worldwide
+28-CB-271524,01/19/2021,Open,50,"Albuquerque, NM","Region 28, Phoenix, Arizona",https://www.nlrb.gov/case/28-CB-271524,International Brotherhood of Teamsters Local 492 (RPE Productions [Outer Range Productions])
+01-CA-271533,01/19/2021,Open,20,"Worcester, MA","Region 01, Boston, Massachusetts",https://www.nlrb.gov/case/01-CA-271533,VERIZON
+19-CA-271492,01/19/2021,Open,160,"Weston, OR","Region 19, Seattle, Washington",https://www.nlrb.gov/case/19-CA-271492,J&J Snack Foods Handhelds Corp.
+19-CA-271520,01/19/2021,Open,234,"Missoula, MT","Region 19, Seattle, Washington",https://www.nlrb.gov/case/19-CA-271520,United States Postal Service
+10-CA-271499,01/19/2021,Open,300,"Greensboro, NC","Region 10, Atlanta, Georgia",https://www.nlrb.gov/case/10-CA-271499,United States Postal Service
+01-CB-271515,01/19/2021,Open,20,"Brewer, ME","Region 01, Boston, Massachusetts",https://www.nlrb.gov/case/01-CB-271515,INTERNATIONAL BROTHERHOOD OF TEAMSTERS LOCAL 340 (United Parcel Service)
+25-CA-271485,01/19/2021,Open,70,"Indianapolis, IN","Region 25, Indianapolis, Indiana",https://www.nlrb.gov/case/25-CA-271485,United State Postal Service
+01-CB-271473,01/19/2021,Open,15,"ROCKLAND, MA","Region 01, Boston, Massachusetts",https://www.nlrb.gov/case/01-CB-271473,"NORTH ATLANTIC STATES REGIONAL COUNCIL OF CARPENTERS (Callahan, Inc.)"
+27-CA-271483,01/19/2021,Open,40,"Boise, ID","Region 27, Denver, Colorado",https://www.nlrb.gov/case/27-CA-271483,United States Postal Service
+29-CA-271578,01/19/2021,Open,55,"Hicksville, NY","Region 29, Brooklyn, New York",https://www.nlrb.gov/case/29-CA-271578,Perfect Gear and Instrument and Stock Drive Products
+13-CB-271482,01/19/2021,Open,25,"Elk Grove Village, IL","Region 13, Chicago, Illinois",https://www.nlrb.gov/case/13-CB-271482,American Postal Workers Union AFL-CIO Northwest Illinois Area-Local (United States Postal Service)
+19-CA-271587,01/19/2021,Open,70,"Everett, WA","Region 19, Seattle, Washington",https://www.nlrb.gov/case/19-CA-271587,Transdev North America
+18-CA-271573,01/19/2021,Open,240,"Milwaukee, WI","Region 18, Minneapolis, Minnesota",https://www.nlrb.gov/case/18-CA-271573,Wisconsin Diagnostic Laboratories
+10-CA-271471,01/19/2021,Open,130,"Greensboro, NC","Region 10, Atlanta, Georgia",https://www.nlrb.gov/case/10-CA-271471,Keolis Transit America Inc.
+14-CB-271484,01/19/2021,Open,12000,"Wichita, KS","Region 14, Saint Louis, Missouri",https://www.nlrb.gov/case/14-CB-271484,IAM & AW Dist 70 & Local 774 (Textron Aviation)
+06-CA-271495,01/19/2021,Open,400,"New Martinsville, WV","Region 06, Pittsburgh, Pennsylvania",https://www.nlrb.gov/case/06-CA-271495,"Axiall, a Westlake Company"
+09-CA-271593,01/19/2021,Open,35,"Louisville, KY","Region 09, Cincinnati, Ohio",https://www.nlrb.gov/case/09-CA-271593,"DSI TUNNELING, INC"
+21-CA-271540,01/19/2021,Open,50,"Mira Loma, CA","Region 21, Los Angeles, California",https://www.nlrb.gov/case/21-CA-271540,"Empire Equipment Service, Inc."
+19-CA-271526,01/19/2021,Open,200,"Seattle, WA","Region 19, Seattle, Washington",https://www.nlrb.gov/case/19-CA-271526,Northwest Administrators Inc.
+14-CB-271460,01/19/2021,Open,1000,"Kansas City, MO","Region 14, Saint Louis, Missouri",https://www.nlrb.gov/case/14-CB-271460,APWU Local 67 (USPS)
+02-CA-271477,01/19/2021,Open,8,"Bronx, NY","Region 02, New York, New York",https://www.nlrb.gov/case/02-CA-271477,"Sameh H. Aknouk Dental Services, P.C."
+25-CA-271461,01/19/2021,Open,200,"Indianapolis, IN","Region 25, Indianapolis, Indiana",https://www.nlrb.gov/case/25-CA-271461,United States Postal Service
+29-CA-271657,01/19/2021,Open,100,"Brooklyn, NY","Region 29, Brooklyn, New York",https://www.nlrb.gov/case/29-CA-271657,"David Kleiner a/k/a David Green a/k/a David David a/k/a Dovid Kleiner a/k/a David Klein (hereafter, ""Kleiner""), Tiebout I Assoc LLC, 2335 Valentine LLC, and 1665 Monroe Assoc LLC"
+08-CA-271517,01/19/2021,Open,100,"Carey, OH","Region 08, Cleveland, Ohio",https://www.nlrb.gov/case/08-CA-271517,Continental Structural Plastics
+19-CA-271527,01/19/2021,Open,1000,"Seattle, WA","Region 19, Seattle, Washington",https://www.nlrb.gov/case/19-CA-271527,Tek Systems
+28-CB-271576,01/19/2021,Open,1,"Phoenix, AZ","Region 28, Phoenix, Arizona",https://www.nlrb.gov/case/28-CB-271576,American Postal Workers Union Local 93 (United States Postal Service)
+05-CA-271727,01/19/2021,Open,51,"Clinton, MD","Region 05, Baltimore, Maryland",https://www.nlrb.gov/case/05-CA-271727,United States Postal Service
+05-CA-271747,01/19/2021,Open,51,"Clinton, MD","Region 05, Baltimore, Maryland",https://www.nlrb.gov/case/05-CA-271747,United States Postal Service
+05-CA-271757,01/19/2021,Open,51,"Clinton, MD","Region 05, Baltimore, Maryland",https://www.nlrb.gov/case/05-CA-271757,United States Postal Service
+05-CA-271763,01/19/2021,Open,51,"Clinton, MD","Region 05, Baltimore, Maryland",https://www.nlrb.gov/case/05-CA-271763,United States Postal Service
+14-CB-271468,01/18/2021,Open,850,"Tulsa, OK","Region 14, Saint Louis, Missouri",https://www.nlrb.gov/case/14-CB-271468,"UAW Local 5010 (Navistar, Inc.)"
+05-CB-268750,01/17/2021,Open,200,"Newport News, VA","Region 05, Baltimore, Maryland",https://www.nlrb.gov/case/05-CB-268750,"Local No. 822 a/w International Brotherhood of Teamsters (United Parcel Service, Inc.)"
+06-CB-271514,01/17/2021,Open,20,"Export, PA","Region 06, Pittsburgh, Pennsylvania",https://www.nlrb.gov/case/06-CB-271514,CWA (Windstream)
+06-CA-271509,01/17/2021,Open,12,"Export, PA","Region 06, Pittsburgh, Pennsylvania",https://www.nlrb.gov/case/06-CA-271509,Windstream
+05-CB-271596,01/16/2021,Open,55,"Lanham, MD","Region 05, Baltimore, Maryland",https://www.nlrb.gov/case/05-CB-271596,IUEC Local 10
+10-CA-271457,01/15/2021,Open,1000,"Greensboro, NC","Region 10, Atlanta, Georgia",https://www.nlrb.gov/case/10-CA-271457,United States Postal Service
+28-CA-271449,01/15/2021,Open,95,"Albuquerque, NM","Region 28, Phoenix, Arizona",https://www.nlrb.gov/case/28-CA-271449,Creamland Dairies
+04-CA-271452,01/15/2021,Open,2000,"Atlantic City, NJ","Region 04, Philadelphia, Pennsylvania",https://www.nlrb.gov/case/04-CA-271452,Hard Rock Casino Hotel
+13-CA-271480,01/15/2021,Open,25,"Aurora, IL","Region 13, Chicago, Illinois",https://www.nlrb.gov/case/13-CA-271480,United States Postal Service
+01-CA-271441,01/15/2021,Open,25,"Plymouth, MA","Region 01, Boston, Massachusetts",https://www.nlrb.gov/case/01-CA-271441,Beth Israel Deaconess Hospital
+09-CA-271525,01/15/2021,Open,15,"Dayton, OH","Region 09, Cincinnati, Ohio",https://www.nlrb.gov/case/09-CA-271525,Freisthler Paving Inc.
+01-CB-271395,01/15/2021,Open,100,"Clinton, MA","Region 01, Boston, Massachusetts",https://www.nlrb.gov/case/01-CB-271395,NALC Branch 12 (U.S. Postal Service)
+08-CA-271439,01/15/2021,Open,170,"Solon, OH","Region 08, Cleveland, Ohio",https://www.nlrb.gov/case/08-CA-271439,Graphic Packaging
+02-CB-271396,01/15/2021,Open,100,"New York, NY","Region 02, New York, New York",https://www.nlrb.gov/case/02-CB-271396,Special and Superior Officers Benevolent Association (Mount Sinai)
+19-CA-271445,01/15/2021,Open,100,"Portland, OR","Region 19, Seattle, Washington",https://www.nlrb.gov/case/19-CA-271445,United States Postal Service
+31-CA-271584,01/15/2021,Open,747,"Apple Valley, CA","Region 31, Los Angeles, California",https://www.nlrb.gov/case/31-CA-271584,St. Mary Medical Center
+08-CA-271434,01/15/2021,Open,130,"East Liverpool, OH","Region 08, Cleveland, Ohio",https://www.nlrb.gov/case/08-CA-271434,"East Liverpool City Hospital, Prime Healthcare"
+02-CB-271490,01/15/2021,Open,125,"Bronx, NY","Region 02, New York, New York",https://www.nlrb.gov/case/02-CB-271490,CWA Local 1101 (Verizon Inc.)
+31-CA-271577,01/15/2021,Open,2,"Colton, CA","Region 31, Los Angeles, California",https://www.nlrb.gov/case/31-CA-271577,GATX Rail Corporation
+07-CA-271518,01/15/2021,Open,10,"Monroe, MI","Region 07, Detroit, Michigan",https://www.nlrb.gov/case/07-CA-271518,Promedica Monroe Skilled Nursing & Rehab
+25-CB-271456,01/15/2021,Open,25,"Indianapolis, IN","Region 25, Indianapolis, Indiana",https://www.nlrb.gov/case/25-CB-271456,"National Association of Letter Carriers, Branch 39 (United States Postal Service)"
+01-CA-271502,01/15/2021,Open,200,"Cambridge, MA","Region 01, Boston, Massachusetts",https://www.nlrb.gov/case/01-CA-271502,BON APPETIT AT MASSACHUSETTS OF TECHNOLOGY
+19-CA-271446,01/15/2021,Open,500,"Naches, WA","Region 19, Seattle, Washington",https://www.nlrb.gov/case/19-CA-271446,"Allan Bros. Fruit, Inc."
+32-CA-271553,01/15/2021,Open,50,"Tracy, CA","Region 32, Oakland, California",https://www.nlrb.gov/case/32-CA-271553,"Katerra, Inc."
+27-CA-271510,01/15/2021,Open,100,"Denver, CO","Region 27, Denver, Colorado",https://www.nlrb.gov/case/27-CA-271510,Mental Health Center of Denver
+01-CA-271454,01/15/2021,Open,180,"Waterford, CT","Region 01, Boston, Massachusetts",https://www.nlrb.gov/case/01-CA-271454,G4S Secure Solutions USA
+21-CA-271451,01/15/2021,Open,1000,"Bell, CA","Region 21, Los Angeles, California",https://www.nlrb.gov/case/21-CA-271451,United States Postal Service
+25-CA-271455,01/15/2021,Open,25,"Indianapolis, IN","Region 25, Indianapolis, Indiana",https://www.nlrb.gov/case/25-CA-271455,United States Postal Service
+07-CA-271462,01/15/2021,Open,1000,"Traverse City, MI","Region 07, Detroit, Michigan",https://www.nlrb.gov/case/07-CA-271462,Munson Medical Center
+10-CB-271425,01/15/2021,Open,100,"Anniston, AL","Region 10, Atlanta, Georgia",https://www.nlrb.gov/case/10-CB-271425,NRLCA (United States Postal Service)
+07-CA-271501,01/15/2021,Open,50,"Okemos, IL","Region 07, Detroit, Michigan",https://www.nlrb.gov/case/07-CA-271501,Dental Plan of Michigan
+07-CA-271464,01/15/2021,Open,2500,"Muskegon, MI","Region 07, Detroit, Michigan",https://www.nlrb.gov/case/07-CA-271464,Mercy Health Partners
+01-CA-271463,01/15/2021,Open,15,"Woburn, MA","Region 01, Boston, Massachusetts",https://www.nlrb.gov/case/01-CA-271463,CAPAVI-USA INDUSTRIAL PIPING AND CERTIFIED WELDING
+02-CA-271465,01/15/2021,Open,100,"Valhalla, NY","Region 02, New York, New York",https://www.nlrb.gov/case/02-CA-271465,Crothall Health Care
+19-CA-271494,01/15/2021,Open,65,"Seattle, WA","Region 19, Seattle, Washington",https://www.nlrb.gov/case/19-CA-271494,YRC Freight
+08-CA-271438,01/15/2021,Open,130,"Solon, OH","Region 08, Cleveland, Ohio",https://www.nlrb.gov/case/08-CA-271438,Graphic Packaging International
+07-CA-271505,01/15/2021,Open,1,"Romulus, MI","Region 07, Detroit, Michigan",https://www.nlrb.gov/case/07-CA-271505,"Kerr Corporation / Metrex Research, LLC"
+08-CA-271433,01/15/2021,Open,130,"East Liverpool, OH","Region 08, Cleveland, Ohio",https://www.nlrb.gov/case/08-CA-271433,"East Liverpool City Hospital, Prime Healthcare"
+01-CA-271431,01/15/2021,Open,25,"Warwick, RI","Region 01, Boston, Massachusetts",https://www.nlrb.gov/case/01-CA-271431,Grove Bay Hospitality Group
+10-CB-271405,01/15/2021,Closed,50,"Greensboro, NC","Region 10, Atlanta, Georgia",https://www.nlrb.gov/case/10-CB-271405,Amalgamated Transit Union Local 1328 (Greensboro Transit Authority)
+31-CA-271569,01/15/2021,Open,500,"Boron, CA","Region 31, Los Angeles, California",https://www.nlrb.gov/case/31-CA-271569,U.S. Borax Inc.
+28-CA-271548,01/15/2021,Open,400,"Holloman Air Force Base, NM","Region 28, Phoenix, Arizona",https://www.nlrb.gov/case/28-CA-271548,Amentum
+21-CA-271447,01/15/2021,Open,1000,"Bell, CA","Region 21, Los Angeles, California",https://www.nlrb.gov/case/21-CA-271447,United States Postal Service
+18-CA-271543,01/15/2021,Open,60,"New Berlin, WI","Region 18, Minneapolis, Minnesota",https://www.nlrb.gov/case/18-CA-271543,"Hastings Air Energy Control, Inc."
+14-CA-271421,01/15/2021,Open,25,"St. Louis, MO","Region 14, Saint Louis, Missouri",https://www.nlrb.gov/case/14-CA-271421,AT&T
+20-CA-271565,01/15/2021,Open,50,"San Francisco, CA","Region 20, San Francisco, California",https://www.nlrb.gov/case/20-CA-271565,Uber Technologies Inc.
+28-CA-271528,01/15/2021,Open,5,"Chandler, AZ","Region 28, Phoenix, Arizona",https://www.nlrb.gov/case/28-CA-271528,Circle K
+14-CA-271411,01/15/2021,Open,19,"Saint Louis, MO","Region 14, Saint Louis, Missouri",https://www.nlrb.gov/case/14-CA-271411,AT&T
+16-CA-271513,01/15/2021,Open,100,"Corpus Christi, TX","Region 16, Fort Worth, Texas",https://www.nlrb.gov/case/16-CA-271513,United States Postal Service
+10-CB-271426,01/15/2021,Open,1,"Savannah, GA","Region 10, Atlanta, Georgia",https://www.nlrb.gov/case/10-CB-271426,ILA Local 1475 (Georgia Stevedore Association)
+08-CA-271432,01/15/2021,Open,1500,"Lima, OH","Region 08, Cleveland, Ohio",https://www.nlrb.gov/case/08-CA-271432,Ford Motor Company Lima Engine Plant
+16-CB-271511,01/15/2021,Open,100,"Corpus Christi, TX","Region 16, Fort Worth, Texas",https://www.nlrb.gov/case/16-CB-271511,American Postal Workers Union (United States Postal Service)
+03-CA-271406,01/15/2021,Open,25,"Buffalo, NY","Region 03, Buffalo, New York",https://www.nlrb.gov/case/03-CA-271406,Allen Burger Venture
+27-CA-271436,01/15/2021,Closed,200,"Boise, ID","Region 27, Denver, Colorado",https://www.nlrb.gov/case/27-CA-271436,United States Postal Service
+04-CA-271343,01/14/2021,Open,1000,"Darby, PA","Region 04, Philadelphia, Pennsylvania",https://www.nlrb.gov/case/04-CA-271343,Trinity Health - Mercy Fitzgerald Hospital
+08-CA-271326,01/14/2021,Open,600,"Toledo, OH","Region 08, Cleveland, Ohio",https://www.nlrb.gov/case/08-CA-271326,United States Postal Service (Toledo Installation)
+25-CA-271393,01/14/2021,Open,1,"Indianapolis, IN","Region 25, Indianapolis, Indiana",https://www.nlrb.gov/case/25-CA-271393,United States Postal Service
+09-CA-271367,01/14/2021,Closed,5000,"Louisville, KY","Region 09, Cincinnati, Ohio",https://www.nlrb.gov/case/09-CA-271367,UPS
+18-CA-271398,01/14/2021,Open,360,"Marquette, MI","Region 18, Minneapolis, Minnesota",https://www.nlrb.gov/case/18-CA-271398,UP Health System-Marquette
+10-CA-271346,01/14/2021,Open,700,"Salem, VA","Region 10, Atlanta, Georgia",https://www.nlrb.gov/case/10-CA-271346,Yokohama Tire Manufacturing Virginia
+05-CA-271552,01/14/2021,Open,185,"Vienna, VA","Region 05, Baltimore, Maryland",https://www.nlrb.gov/case/05-CA-271552,Remine
+10-CA-271414,01/14/2021,Open,700,"Salem, VA","Region 10, Atlanta, Georgia",https://www.nlrb.gov/case/10-CA-271414,Yokohama Tire Manufacturing Virginia
+09-CB-271542,01/14/2021,Open,200,"Cincinnati, OH","Region 09, Cincinnati, Ohio",https://www.nlrb.gov/case/09-CB-271542,"UNITED FOOD AND COMMERCIAL WORKERS INTERNATIONAL UNION, CLC (UFCW) LOCAL 75 (Meijer Stores)"
+08-CA-271349,01/14/2021,Open,1500,"Cleveland, OH","Region 08, Cleveland, Ohio",https://www.nlrb.gov/case/08-CA-271349,Cleveland Cliffs
+22-CA-271368,01/14/2021,Open,10,"Avenel, NJ","Region 22, Newark, New Jersey",https://www.nlrb.gov/case/22-CA-271368,Tasha Perez as Agent of ACV Enviro
+18-CA-271437,01/14/2021,Open,5000,"Waukesha, WI","Region 18, Minneapolis, Minnesota",https://www.nlrb.gov/case/18-CA-271437,GE Healthcare
+31-CA-271422,01/14/2021,Open,2,"Victorville, CA","Region 31, Los Angeles, California",https://www.nlrb.gov/case/31-CA-271422,Victor Valley Global Medical Center
+12-CA-271373,01/14/2021,Open,5000,"Melbourne, FL","Region 12, Tampa, Florida",https://www.nlrb.gov/case/12-CA-271373,Northrop Grumman
+22-CA-271403,01/14/2021,Open,7,"Freehold, NJ","Region 22, Newark, New Jersey",https://www.nlrb.gov/case/22-CA-271403,"JS Contracting, LLC d/b/a Fiore Paving, Co."
+07-CB-271470,01/14/2021,Open,1,"Dearborn, MI","Region 07, Detroit, Michigan",https://www.nlrb.gov/case/07-CB-271470,"American Federation of Labor & Congress of Industrial Organization-United Auto Workers, UAW, AFL-CIO (Ford Motor Company)"
+04-CB-271351,01/14/2021,Open,200,"Lancaster, PA","Region 04, Philadelphia, Pennsylvania",https://www.nlrb.gov/case/04-CB-271351,Teamsters Local 771 (United Parcel Service)
+13-CA-271415,01/14/2021,Closed,9,"Channahon, IL","Region 13, Chicago, Illinois",https://www.nlrb.gov/case/13-CA-271415,HydroChem PSC
+01-CB-271397,01/14/2021,Open,15,"Waltham, MA","Region 01, Boston, Massachusetts",https://www.nlrb.gov/case/01-CB-271397,"North Atlantic States Regional Council of Carpenters (Callahan, Inc.)"
+19-CA-271366,01/14/2021,Open,500,"Naches, WA","Region 19, Seattle, Washington",https://www.nlrb.gov/case/19-CA-271366,"Allan Bros. Fruit, Inc."
+10-CA-271419,01/14/2021,Open,32,"Nashville, TN","Region 10, Atlanta, Georgia",https://www.nlrb.gov/case/10-CA-271419,AT&T
+28-CA-271423,01/14/2021,Closed,1500,"Las Vegas, NV","Region 28, Phoenix, Arizona",https://www.nlrb.gov/case/28-CA-271423,"Station GVR Acquisition, LLC d/b/a Green Valley Ranch Resort Spa Casino"
+06-CA-271417,01/14/2021,Open,1,"Canonsburg, PA","Region 06, Pittsburgh, Pennsylvania",https://www.nlrb.gov/case/06-CA-271417,Canonsburg Hospital
+28-CA-271429,01/14/2021,Open,12,"Isleta, NM","Region 28, Phoenix, Arizona",https://www.nlrb.gov/case/28-CA-271429,Pueblo of Isleta Health Center
+18-CA-271375,01/14/2021,Open,750,"Cottage Grove, MN","Region 18, Minneapolis, Minnesota",https://www.nlrb.gov/case/18-CA-271375,3M Cottage Grove
+12-CA-271413,01/14/2021,Open,5,"Miami, FL","Region 12, Tampa, Florida",https://www.nlrb.gov/case/12-CA-271413,"Greene Kleen of South Florida, Inc."
+12-CB-271394,01/14/2021,Open,100,"Saint Petersburg, FL","Region 12, Tampa, Florida",https://www.nlrb.gov/case/12-CB-271394,"American Postal Workers Union, Suncoast Area Local #1228 (United States Postal Service)"
+06-CA-271402,01/14/2021,Open,2500,"Pittsburgh, PA","Region 06, Pittsburgh, Pennsylvania",https://www.nlrb.gov/case/06-CA-271402,"UPMC and its subsidiary, UPMC Presbyterian Shadyside, d/b/a UPMC Dermatology Shadyside"
+21-CA-271623,01/14/2021,Open,2,"Tucson, AZ","Region 21, Los Angeles, California",https://www.nlrb.gov/case/21-CA-271623,"American Federation of State, City and Municipal Employees Local 449 (AFSCME)"
+05-CA-271467,01/14/2021,Open,200,"Newport News, VA","Region 05, Baltimore, Maryland",https://www.nlrb.gov/case/05-CA-271467,"United Parcel Service, Inc."
+09-CB-271570,01/14/2021,Open,375,"Columbus, OH","Region 09, Cincinnati, Ohio",https://www.nlrb.gov/case/09-CB-271570,"INTERNATIONAL BROTHERHOOD OF TEAMSTERS (IBT), LOCAL UNION NO. 284 (Sygma Network, Inc.)"
+29-CB-271481,01/14/2021,Open,1000,"Brooklyn, NY","Region 29, Brooklyn, New York",https://www.nlrb.gov/case/29-CB-271481,National Association of Letter Carriers Branch 41 (USPS)
+05-CB-271500,01/14/2021,Open,55,"Richmond, VA","Region 05, Baltimore, Maryland",https://www.nlrb.gov/case/05-CB-271500,Richmond Newspapers Professional Association (RNPA)
+10-CB-271420,01/14/2021,Open,50,"McDonough, GA","Region 10, Atlanta, Georgia",https://www.nlrb.gov/case/10-CB-271420,SEIU Workers United Southern Region (PVH Corp.)
+01-CA-271390,01/14/2021,Open,1000,"providence, RI","Region 01, Boston, Massachusetts",https://www.nlrb.gov/case/01-CA-271390,United States Postal Service
+15-CB-271376,01/14/2021,Open,90,"Cordova, TN","Region 15, New Orleans, Louisiana",https://www.nlrb.gov/case/15-CB-271376,National Rural Letter Carrier Association (United States Postal Service)
+27-CA-271443,01/14/2021,Open,500,"Greeley, CO","Region 27, Denver, Colorado",https://www.nlrb.gov/case/27-CA-271443,Teletech
+05-CA-271453,01/14/2021,Open,54,"Washington, DC","Region 05, Baltimore, Maryland",https://www.nlrb.gov/case/05-CA-271453,United Food and Commercial Workers International Union
+19-CA-271387,01/14/2021,Open,65,"Seattle, WA","Region 19, Seattle, Washington",https://www.nlrb.gov/case/19-CA-271387,Yellow Roadway Corporation Worldwide
+21-CA-271450,01/14/2021,Open,150,"Pico Rivera, CA","Region 21, Los Angeles, California",https://www.nlrb.gov/case/21-CA-271450,BakeMark
+31-CA-271428,01/14/2021,Open,20,"Woodland Hills, CA","Region 31, Los Angeles, California",https://www.nlrb.gov/case/31-CA-271428,Douglass Emmet Management LLC/Douglass Emmet Inc.
+25-CA-271389,01/14/2021,Open,150,"Indianapolis, IN","Region 25, Indianapolis, Indiana",https://www.nlrb.gov/case/25-CA-271389,UPS
+25-CA-271338,01/14/2021,Open,1000,"Indianapolis, IN","Region 25, Indianapolis, Indiana",https://www.nlrb.gov/case/25-CA-271338,United States Postal Service
+25-CA-271344,01/14/2021,Open,150,"Muncie, IN","Region 25, Indianapolis, Indiana",https://www.nlrb.gov/case/25-CA-271344,Element Resources (Exide)
+18-CA-271410,01/14/2021,Open,180,"Bloomer, WI","Region 18, Minneapolis, Minnesota",https://www.nlrb.gov/case/18-CA-271410,AJ Manufacturing Inc.
+21-CB-271474,01/14/2021,Open,50,"Anaheim, CA","Region 21, Los Angeles, California",https://www.nlrb.gov/case/21-CB-271474,Teamsters Local 952 (UPS)
+01-CB-271737,01/14/2021,Open,15,"Waltham, MA","Region 01, Boston, Massachusetts",https://www.nlrb.gov/case/01-CB-271737,"NORTH ATLANTIC STATES REGIONAL COUNCIL OF CARPENTERS (Callahan, Inc.)"
+20-CB-271378,01/14/2021,Closed,2,"North Hollywood, CA","Region 20, San Francisco, California",https://www.nlrb.gov/case/20-CB-271378,Teamsters Local 399 (Universal Studios Hollywood)
+19-CA-271342,01/13/2021,Open,2500,"Seattle, WA","Region 19, Seattle, Washington",https://www.nlrb.gov/case/19-CA-271342,Allied Universal
+06-CA-271430,01/13/2021,Open,20,"Pittsburgh, PA","Region 06, Pittsburgh, Pennsylvania",https://www.nlrb.gov/case/06-CA-271430,Aramark Corporation
+20-CB-271380,01/13/2021,Open,25,"Santa Rosa, CA","Region 20, San Francisco, California",https://www.nlrb.gov/case/20-CB-271380,SEIU-UHW (Kaiser Permanente)
+18-CA-271314,01/13/2021,Open,1312,"Saint Paul, MN","Region 18, Minneapolis, Minnesota",https://www.nlrb.gov/case/18-CA-271314,M Health Fairview
+21-CA-271379,01/13/2021,Open,23,"San Diego, CA","Region 21, Los Angeles, California",https://www.nlrb.gov/case/21-CA-271379,"Relentless Pursuit Enterprises, Inc., d/b/a Lexus San Diego"
+25-CA-271339,01/13/2021,Open,200,"Indianapolis, IN","Region 25, Indianapolis, Indiana",https://www.nlrb.gov/case/25-CA-271339,United States Postal Service
+28-CB-271324,01/13/2021,Open,50,"Albuquerque, NM","Region 28, Phoenix, Arizona",https://www.nlrb.gov/case/28-CB-271324,International Brotherhood of Teamsters Local 492 (Amazon Prime (Outer Range Production))
+16-CA-271362,01/13/2021,Open,30,"Laredo, TX","Region 16, Fort Worth, Texas",https://www.nlrb.gov/case/16-CA-271362,United States Postal Service
+13-CA-271307,01/13/2021,Open,18,"Hillside, IL","Region 13, Chicago, Illinois",https://www.nlrb.gov/case/13-CA-271307,United States Postal Service
+03-CA-271304,01/13/2021,Open,260,"Syracuse, NY","Region 03, Buffalo, New York",https://www.nlrb.gov/case/03-CA-271304,Eaton Crouse-Hinds
+13-CA-271359,01/13/2021,Open,300,"Chicago, IL","Region 13, Chicago, Illinois",https://www.nlrb.gov/case/13-CA-271359,Paragon Systems
+16-CA-271372,01/13/2021,Open,125,"Houston, TX","Region 16, Fort Worth, Texas",https://www.nlrb.gov/case/16-CA-271372,"Loomis, US"
+21-CA-271384,01/13/2021,Open,23,"San Diego, CA","Region 21, Los Angeles, California",https://www.nlrb.gov/case/21-CA-271384,"Relentless Pursuit Enterprises, Inc., d/b/a Lexus San Diego"
+07-CB-271458,01/13/2021,Open,1,"Flint, MI","Region 07, Detroit, Michigan",https://www.nlrb.gov/case/07-CB-271458,International Brotherhood of Electrical Workers (General Motors Flint Assembly)
+28-CA-271322,01/13/2021,Open,1,"Artesia, NM","Region 28, Phoenix, Arizona",https://www.nlrb.gov/case/28-CA-271322,Austin Maintenance & Construction Inc.
+07-CB-271334,01/13/2021,Open,200,"Flint, MI","Region 07, Detroit, Michigan",https://www.nlrb.gov/case/07-CB-271334,Local 332 IBT (UPS Flint)
+12-CB-271604,01/13/2021,Open,70,"San Juan, PR","Region 12, Tampa, Florida",https://www.nlrb.gov/case/12-CB-271604,"Union de Profesionales de la Seguridad Privada y Transporte de Valores (Ranger American Armored Services, Inc.)"
+09-CA-271424,01/13/2021,Open,375,"Columbus, OH","Region 09, Cincinnati, Ohio",https://www.nlrb.gov/case/09-CA-271424,"Sygma Network, Inc."
+12-CA-271340,01/13/2021,Open,100,"Bayamon, PR","Region 12, Tampa, Florida",https://www.nlrb.gov/case/12-CA-271340,United States Postal Service (USPS)
+08-CA-271328,01/13/2021,Open,17,"Bedford Heights, OH","Region 08, Cleveland, Ohio",https://www.nlrb.gov/case/08-CA-271328,Earl M Jorgensen Co.
+32-CA-271352,01/13/2021,Open,50,"Santa Cruz, CA","Region 32, Oakland, California",https://www.nlrb.gov/case/32-CA-271352,"Santa Cruz Skilled Nursing Center, Inc., d/b/a Hearts & Hands, Post Acute Care & Rehab Center"
+22-CB-271341,01/13/2021,Open,12,"Belleville, NJ","Region 22, Newark, New Jersey",https://www.nlrb.gov/case/22-CB-271341,District 1199J
+32-CA-271348,01/13/2021,Open,50,"Santa Cruz, CA","Region 32, Oakland, California",https://www.nlrb.gov/case/32-CA-271348,"Santa Cruz Skilled Nursing Center, Inc., d/b/a Hearts & Hands, Post Acute Care & Rehab Center"
+22-CA-271333,01/13/2021,Open,80,"West Orange, NJ","Region 22, Newark, New Jersey",https://www.nlrb.gov/case/22-CA-271333,GREEN HILL
+06-CA-271370,01/13/2021,Open,200,"Northern Cambria, PA","Region 06, Pittsburgh, Pennsylvania",https://www.nlrb.gov/case/06-CA-271370,L-J-L Trucking Inc. (dba Med-Van Transport)
+19-CC-271444,01/13/2021,Open,40,"Seattle, WA","Region 19, Seattle, Washington",https://www.nlrb.gov/case/19-CC-271444,"International Longshore & Warehouse Union and International Longshore & Warehouse Union, Local 19 (Pacific Maritime Association/SSA Marine)"
+20-CB-271386,01/13/2021,Open,50,"San Francisco, CA","Region 20, San Francisco, California",https://www.nlrb.gov/case/20-CB-271386,SEIU-United Service Workers West Local 1877 (SMG Moscone Center)
+31-CB-271317,01/13/2021,Open,2,"Valencia, CA","Region 31, Los Angeles, California",https://www.nlrb.gov/case/31-CB-271317,Local 770 (Ralphs)
+06-CA-271392,01/13/2021,Open,64,"Houston, PA","Region 06, Pittsburgh, Pennsylvania",https://www.nlrb.gov/case/06-CA-271392,First Transit
+10-CA-271506,01/13/2021,Open,500,"Atlanta, GA","Region 10, Atlanta, Georgia",https://www.nlrb.gov/case/10-CA-271506,Sysco
+07-CA-271416,01/13/2021,Open,240,"Marysville, MI","Region 07, Detroit, Michigan",https://www.nlrb.gov/case/07-CA-271416,"Intertape Polymer Group, Inc."
+07-CA-271329,01/13/2021,Open,200,"Flint, MI","Region 07, Detroit, Michigan",https://www.nlrb.gov/case/07-CA-271329,UPS
+07-CA-271388,01/13/2021,Open,100,"Troy, MI","Region 07, Detroit, Michigan",https://www.nlrb.gov/case/07-CA-271388,Superior Electric Great Lakes Company
+21-CA-271448,01/13/2021,Open,58,"Whittier, CA","Region 21, Los Angeles, California",https://www.nlrb.gov/case/21-CA-271448,Rose Hills Memorial Park & Mortuary
+13-CA-271353,01/13/2021,Open,82,"East Chicago, IN","Region 13, Chicago, Illinois",https://www.nlrb.gov/case/13-CA-271353,Marino ware
+08-CA-271315,01/13/2021,Open,100,"Canton, OH","Region 08, Cleveland, Ohio",https://www.nlrb.gov/case/08-CA-271315,United States Postal Service
+01-CA-271300,01/13/2021,Open,190,"Franklin, MA","Region 01, Boston, Massachusetts",https://www.nlrb.gov/case/01-CA-271300,NEW ENGLAND TREATMENT ACCESS
+05-CA-271409,01/13/2021,Open,7,"Westminster, MD","Region 05, Baltimore, Maryland",https://www.nlrb.gov/case/05-CA-271409,Ichabod's Tree Expert
+21-CA-271323,01/13/2021,Open,400,"Moreno Valley, CA","Region 21, Los Angeles, California",https://www.nlrb.gov/case/21-CA-271323,"UNFI West, Inc., a/k/a United Natural Foods, Inc."
+10-CA-271305,01/13/2021,Open,50,"Columbia, SC","Region 10, Atlanta, Georgia",https://www.nlrb.gov/case/10-CA-271305,"Absolute Total Care, Inc"
+07-CA-271369,01/13/2021,Open,25,"Ann Arbor, MI","Region 07, Detroit, Michigan",https://www.nlrb.gov/case/07-CA-271369,Shelter Association of Washtenaw County
+19-CA-271365,01/13/2021,Open,500,"Naches, WA","Region 19, Seattle, Washington",https://www.nlrb.gov/case/19-CA-271365,"Allan Bros. Fruit, Inc."
+32-CB-271345,01/13/2021,Open,1000,"San Leandro, CA","Region 32, Oakland, California",https://www.nlrb.gov/case/32-CB-271345,Service Employees International Union - United Healthcare Workers (Kaiser Hospital)
+01-CA-271331,01/13/2021,Open,42,"Greenville, RI","Region 01, Boston, Massachusetts",https://www.nlrb.gov/case/01-CA-271331,"Durham School Services, LP"
+21-CA-271412,01/13/2021,Open,250,"Los Angeles, CA","Region 21, Los Angeles, California",https://www.nlrb.gov/case/21-CA-271412,Valley Fruit & Produce / Valpro
+19-CA-271361,01/13/2021,Open,30,"Shelton, WA","Region 19, Seattle, Washington",https://www.nlrb.gov/case/19-CA-271361,United States Postal Service
+10-CB-271357,01/13/2021,Open,500,"Atlanta, GA","Region 10, Atlanta, Georgia",https://www.nlrb.gov/case/10-CB-271357,"National Association of Letter Carriers, Branch 73 (United States Postal Service)"
+02-CA-271404,01/13/2021,Open,360,"New York, NY","Region 02, New York, New York",https://www.nlrb.gov/case/02-CA-271404,"Consolidated Bus Transit, Inc. and JSJ Service Corp."
+19-CA-271347,01/13/2021,Open,120,"Tacoma, WA","Region 19, Seattle, Washington",https://www.nlrb.gov/case/19-CA-271347,MultiCare Health System
+12-CA-271617,01/13/2021,Open,70,"San Juan, PR","Region 12, Tampa, Florida",https://www.nlrb.gov/case/12-CA-271617,"Ranger American Armored Services, Inc."
+31-CA-271364,01/13/2021,Open,2,"Santa Maria, CA","Region 31, Los Angeles, California",https://www.nlrb.gov/case/31-CA-271364,"Harbor Distributing, LLC d/b/a/ Allied Central Coast Distributing"
+13-CA-271330,01/13/2021,Closed,90,"Chicago, IL","Region 13, Chicago, Illinois",https://www.nlrb.gov/case/13-CA-271330,United States Postal Service
+10-CA-271309,01/13/2021,Open,30,"Kannapolis, NC","Region 10, Atlanta, Georgia",https://www.nlrb.gov/case/10-CA-271309,United States Postal Service
+10-CA-271350,01/13/2021,Open,500,"Atlanta, GA","Region 10, Atlanta, Georgia",https://www.nlrb.gov/case/10-CA-271350,United States Postal Service
+13-CA-271302,01/13/2021,Open,340,"Schiller Park, IL","Region 13, Chicago, Illinois",https://www.nlrb.gov/case/13-CA-271302,"Flying Food Group, LLC"
+03-CA-271292,01/13/2021,Open,400,"Feura Bush, NY","Region 03, Buffalo, New York",https://www.nlrb.gov/case/03-CA-271292,Owens Corning
+20-CA-271382,01/13/2021,Open,12,"Daly City, CA","Region 20, San Francisco, California",https://www.nlrb.gov/case/20-CA-271382,Service International Corporation d/b/a Woodlawn Memorial Park
+05-CA-271400,01/13/2021,Open,30,"Potomac, MD","Region 05, Baltimore, Maryland",https://www.nlrb.gov/case/05-CA-271400,Argus Construction LLC
+20-CA-271325,01/13/2021,Closed,300,"Lihue, HI","Region 20, San Francisco, California",https://www.nlrb.gov/case/20-CA-271325,Danny the Nanny FFSO Productions Universal Studios
+12-CB-271248,01/12/2021,Open,100,"San Juan, PR","Region 12, Tampa, Florida",https://www.nlrb.gov/case/12-CB-271248,"International Longshoremen's Association, Local 1740 (Luis Ayala Colon & Sucrs., Inc.)"
+09-CA-271321,01/12/2021,Open,550,"Louisville, KY","Region 09, Cincinnati, Ohio",https://www.nlrb.gov/case/09-CA-271321,YANFENG AUTOMOTIVE INTERIORS
+02-CB-271336,01/12/2021,Open,10,"New York, NY","Region 02, New York, New York",https://www.nlrb.gov/case/02-CB-271336,"Local 1102 RWDSU, UFCW (Tip Top Kids)"
+20-CA-271282,01/12/2021,Closed,10,"Honolulu, HI","Region 20, San Francisco, California",https://www.nlrb.gov/case/20-CA-271282,Hawai’i Pacific Health d/b/a Kapi’olani Medical Center
+19-CA-271356,01/12/2021,Open,500,"Seattle, WA","Region 19, Seattle, Washington",https://www.nlrb.gov/case/19-CA-271356,Allied Universal Security Services
+10-CA-271295,01/12/2021,Open,25,"Nashville, TN","Region 10, Atlanta, Georgia",https://www.nlrb.gov/case/10-CA-271295,AT&T
+04-CA-271272,01/12/2021,Open,200,"Malvern, PA","Region 04, Philadelphia, Pennsylvania",https://www.nlrb.gov/case/04-CA-271272,"Acme Markets, Inc."
+29-CA-271319,01/12/2021,Open,400,"Melville, NY","Region 29, Brooklyn, New York",https://www.nlrb.gov/case/29-CA-271319,United States Postal Service
+19-CB-271280,01/12/2021,Closed,1,"Portland, OR","Region 19, Seattle, Washington",https://www.nlrb.gov/case/19-CB-271280,American Postal Workers Union (United States Postal Service)
+03-CA-271257,01/12/2021,Open,23,"Glens Falls, NY","Region 03, Buffalo, New York",https://www.nlrb.gov/case/03-CA-271257,Finch Paper LLC
+16-CA-271293,01/12/2021,Open,32,"Pasadena, TX","Region 16, Fort Worth, Texas",https://www.nlrb.gov/case/16-CA-271293,DuPont
+01-CB-271440,01/12/2021,Open,20,"Chatham, MA","Region 01, Boston, Massachusetts",https://www.nlrb.gov/case/01-CB-271440,NATIONAL ASSOCIATION OF LETTER CARRIERS (United States Postal Service)
+10-CA-271297,01/12/2021,Open,50,"Atlanta, GA","Region 10, Atlanta, Georgia",https://www.nlrb.gov/case/10-CA-271297,United States Postal Service
+01-CA-271318,01/12/2021,Open,20,"Hartford, CT","Region 01, Boston, Massachusetts",https://www.nlrb.gov/case/01-CA-271318,Unitex Textile Rental Services
+21-CA-271313,01/12/2021,Open,200,"Perris, CA","Region 21, Los Angeles, California",https://www.nlrb.gov/case/21-CA-271313,CR&R Environmental Services
+19-CB-271358,01/12/2021,Open,500,"Seattle, WA","Region 19, Seattle, Washington",https://www.nlrb.gov/case/19-CB-271358,SEIU Local 6 (Allied Universal Security Services)
+20-CA-271278,01/12/2021,Closed,10,"Honolulu, HI","Region 20, San Francisco, California",https://www.nlrb.gov/case/20-CA-271278,Hawai’i Pacific Health d/b/a Kapi’olani Medical Center
+09-CA-271310,01/12/2021,Open,9,"Proctorville, OH","Region 09, Cincinnati, Ohio",https://www.nlrb.gov/case/09-CA-271310,UNITED STATES POSTAL SERVICE
+19-CE-271320,01/12/2021,Closed,6,"Nooksack, WA","Region 19, Seattle, Washington",https://www.nlrb.gov/case/19-CE-271320,IBEW Local 46 (VECA Electric and Technologies)
+14-CA-271254,01/12/2021,Open,250,"Columbia, MO","Region 14, Saint Louis, Missouri",https://www.nlrb.gov/case/14-CA-271254,United Parcel Service
+20-CA-271286,01/12/2021,Open,10,"Honolulu, HI","Region 20, San Francisco, California",https://www.nlrb.gov/case/20-CA-271286,Hawai’i Pacific Health d/b/a Kapi’olani Medical Center
+04-CC-271270,01/12/2021,Open,100,"Philadelphia, PA","Region 04, Philadelphia, Pennsylvania",https://www.nlrb.gov/case/04-CC-271270,"Sprinkler Fitters Local 692 (Post General Contracting, LLC)"
+05-CA-271263,01/12/2021,Open,250,"Smithfield, VA","Region 05, Baltimore, Maryland",https://www.nlrb.gov/case/05-CA-271263,Kroger Mid-Atlantic
+18-CA-271266,01/12/2021,Open,500,"Neenah, WI","Region 18, Minneapolis, Minnesota",https://www.nlrb.gov/case/18-CA-271266,Neenah Enterprises (Neenah Foundry)
+31-CB-271311,01/12/2021,Open,50,"Sylmar, CA","Region 31, Los Angeles, California",https://www.nlrb.gov/case/31-CB-271311,"District Lodge 725, Local Lodge 727-N (Guide Dogs of America)"
+32-CA-271377,01/12/2021,Open,50,"Hayward, CA","Region 32, Oakland, California",https://www.nlrb.gov/case/32-CA-271377,Mariner Health Care Services d/b/a Driftwood Healthcare Center-Hayward
+12-CA-271294,01/12/2021,Open,17,"Sarasota, FL","Region 12, Tampa, Florida",https://www.nlrb.gov/case/12-CA-271294,Emera/TECO Peoples Gas - Sarasota
+08-CA-271271,01/12/2021,Open,74,"Cleveland, OH","Region 08, Cleveland, Ohio",https://www.nlrb.gov/case/08-CA-271271,"AJ Suburban OPCO, LLC d/b/a Suburban Healthcare and Rehabilitation"
+07-CA-271312,01/12/2021,Open,2500,"Grand Rapids, MI","Region 07, Detroit, Michigan",https://www.nlrb.gov/case/07-CA-271312,United States Postal Service
+09-CA-271298,01/12/2021,Open,150,"Columbus, OH","Region 09, Cincinnati, Ohio",https://www.nlrb.gov/case/09-CA-271298,UPS FREIGHT
+10-CA-271290,01/12/2021,Open,25,"Nashville, TN","Region 10, Atlanta, Georgia",https://www.nlrb.gov/case/10-CA-271290,AT&T
+09-CB-271276,01/12/2021,Open,25,"Columbus, OH","Region 09, Cincinnati, Ohio",https://www.nlrb.gov/case/09-CB-271276,"INTERNATIONAL BROTHERHOOD OF TEAMSTERS (IBT), LOCAL 413 (UPS Freight)"
+07-CA-271264,01/12/2021,Open,7000,"Troy, MI","Region 07, Detroit, Michigan",https://www.nlrb.gov/case/07-CA-271264,Talascend
+27-CA-271265,01/12/2021,Open,10,"Moab, UT","Region 27, Denver, Colorado",https://www.nlrb.gov/case/27-CA-271265,Dollar General
+32-CA-271383,01/12/2021,Open,150,"Richmond, CA","Region 32, Oakland, California",https://www.nlrb.gov/case/32-CA-271383,United Parcel Service North Bay/Cordelia/Napa Hub
+21-CA-271385,01/12/2021,Open,400,"RIVERSIDE, CA","Region 21, Los Angeles, California",https://www.nlrb.gov/case/21-CA-271385,"UNFI West, Inc., a/k/a United Natural Foods, Inc."
+20-CA-271274,01/12/2021,Closed,10,"Honolulu, HI","Region 20, San Francisco, California",https://www.nlrb.gov/case/20-CA-271274,Hawai’i Pacific Health d/b/a Kapi’olani Medical Center
+02-CB-271308,01/12/2021,Open,50,"New York, NY","Region 02, New York, New York",https://www.nlrb.gov/case/02-CB-271308,SEIU Local 32BJ (Harvard Maintenance)
+01-CA-271301,01/12/2021,Open,15,"Watertown, CT","Region 01, Boston, Massachusetts",https://www.nlrb.gov/case/01-CA-271301,"Philson, Inc."
+10-CB-271662,01/12/2021,Open,10,"Atlanta, GA","Region 10, Atlanta, Georgia",https://www.nlrb.gov/case/10-CB-271662,"National Association of Letter Carriers, Branch 73 (United States Postal Service)"
+01-CA-271291,01/12/2021,Open,1800,"Boston, MA","Region 01, Boston, Massachusetts",https://www.nlrb.gov/case/01-CA-271291,UNITED STATES POSTAL SERVICE
+08-CB-271275,01/12/2021,Open,1,"Maumee, OH","Region 08, Cleveland, Ohio",https://www.nlrb.gov/case/08-CB-271275,Teamsters Loc 20 (UPS)
+16-CB-271250,01/11/2021,Open,1000,"Houston, TX","Region 16, Fort Worth, Texas",https://www.nlrb.gov/case/16-CB-271250,American Postal Workers Union (United States Postal Service)
+25-CA-271214,01/11/2021,Open,1400,"Indianapolis, IN","Region 25, Indianapolis, Indiana",https://www.nlrb.gov/case/25-CA-271214,Allison Transmission Inc.
+12-CA-271243,01/11/2021,Open,800,"Jacksonville, FL","Region 12, Tampa, Florida",https://www.nlrb.gov/case/12-CA-271243,"United States Postal Service, Jacksonville Network Distribution (NDC)"
+06-CA-271246,01/11/2021,Open,150,"Hershey, PA","Region 06, Pittsburgh, Pennsylvania",https://www.nlrb.gov/case/06-CA-271246,Pennsylvania American Water Company
+04-CA-271182,01/11/2021,Open,25,"Reading, PA","Region 04, Philadelphia, Pennsylvania",https://www.nlrb.gov/case/04-CA-271182,"PPG Industries, Inc."
+15-CA-271205,01/11/2021,Open,0,"Memphis, TN","Region 15, New Orleans, Louisiana",https://www.nlrb.gov/case/15-CA-271205,Memphis Ready Mix
+07-CB-271199,01/11/2021,Open,50,"Detroit, MI","Region 07, Detroit, Michigan",https://www.nlrb.gov/case/07-CB-271199,"Local 7, International Union, United Automobile, Aerospace and Agricultural Implement Workers of America (UAW), AFL-CIO (FCA US LLC)"
+02-CA-271197,01/11/2021,Closed,1200,"Croton On Hudson, NY","Region 02, New York, New York",https://www.nlrb.gov/case/02-CA-271197,Bethel Nursing and Rehabilitation Center
+21-CA-271303,01/11/2021,Open,60,"Anaheim, CA","Region 21, Los Angeles, California",https://www.nlrb.gov/case/21-CA-271303,Kaiser Permanente
+07-CA-271241,01/11/2021,Open,2,"Zeeland, MI","Region 07, Detroit, Michigan",https://www.nlrb.gov/case/07-CA-271241,Christian Labor Association
+15-CB-271192,01/11/2021,Closed,1500,"Russellville, AR","Region 15, New Orleans, Louisiana",https://www.nlrb.gov/case/15-CB-271192,Teamsters Local 878 (Conagra Brands)
+21-CA-271285,01/11/2021,Open,25,"Riverside, CA","Region 21, Los Angeles, California",https://www.nlrb.gov/case/21-CA-271285,Marco Flores Trucking Inc.
+10-CA-271242,01/11/2021,Open,28,"High Point, NC","Region 10, Atlanta, Georgia",https://www.nlrb.gov/case/10-CA-271242,Fitesa
+03-CB-271163,01/11/2021,Open,150,"Delmar, NY","Region 03, Buffalo, New York",https://www.nlrb.gov/case/03-CB-271163,1199 SEIU United Healthcare Workers East (Delmar Center for Rehabilitation and Nursing/The Lutheran Care Network (Joint Employer))
+14-CA-271202,01/11/2021,Open,50,"Oklahoma City, OK","Region 14, Saint Louis, Missouri",https://www.nlrb.gov/case/14-CA-271202,Emergency Medical Services Authority (EMSA)
+08-CA-271175,01/11/2021,Open,91,"Maumee, OH","Region 08, Cleveland, Ohio",https://www.nlrb.gov/case/08-CA-271175,"United Parcel Service, Inc. (UPS)"
+04-CA-271180,01/11/2021,Open,50,"Bethlehem, PA","Region 04, Philadelphia, Pennsylvania",https://www.nlrb.gov/case/04-CA-271180,Bethlehem Haulage/ C&S Wholesale Grocery
+14-CA-271203,01/11/2021,Open,50,"Saint Louis, MO","Region 14, Saint Louis, Missouri",https://www.nlrb.gov/case/14-CA-271203,U-City Forest Manor
+01-CA-271236,01/11/2021,Open,10,"Tolland, CT","Region 01, Boston, Massachusetts",https://www.nlrb.gov/case/01-CA-271236,"Tri-City Fire Protection, LLC"
+08-CA-271187,01/11/2021,Open,100,"Elyria, OH","Region 08, Cleveland, Ohio",https://www.nlrb.gov/case/08-CA-271187,United States Postal Service
+18-CA-271244,01/11/2021,Open,230,"Sartell, MN","Region 18, Minneapolis, Minnesota",https://www.nlrb.gov/case/18-CA-271244,DeZurik Inc.
+05-CA-271299,01/11/2021,Closed,30,"Owings Mills, MD","Region 05, Baltimore, Maryland",https://www.nlrb.gov/case/05-CA-271299,Tesla Inc.
+13-CA-271207,01/11/2021,Open,20000,"Arlington Heights, IL","Region 13, Chicago, Illinois",https://www.nlrb.gov/case/13-CA-271207,AT&T Midwest
+29-CA-271262,01/11/2021,Open,250,"Brooklyn, NY","Region 29, Brooklyn, New York",https://www.nlrb.gov/case/29-CA-271262,"Thimble Pea Pictures, LLC"
+29-CA-271215,01/11/2021,Open,46,"Brooklyn, NY","Region 29, Brooklyn, New York",https://www.nlrb.gov/case/29-CA-271215,United States Postal Service
+18-CA-271221,01/11/2021,Open,750,"Champlin, MN","Region 18, Minneapolis, Minnesota",https://www.nlrb.gov/case/18-CA-271221,Allina Mercy Medical Center
+16-CA-271226,01/11/2021,Open,400,"Pasadena, TX","Region 16, Fort Worth, Texas",https://www.nlrb.gov/case/16-CA-271226,Kaneka North America LLC
+29-CB-271260,01/11/2021,Open,250,"Brooklyn, NY","Region 29, Brooklyn, New York",https://www.nlrb.gov/case/29-CB-271260,"IATSE Local 52 Motion Picture Studio Mechanics (Thimble Pea Pictures, LLC)"
+10-CA-271247,01/11/2021,Closed,262,"Atlanta, GA","Region 10, Atlanta, Georgia",https://www.nlrb.gov/case/10-CA-271247,Country home bakers
+13-CD-271208,01/11/2021,Open,50,"Chicago, IL","Region 13, Chicago, Illinois",https://www.nlrb.gov/case/13-CD-271208,"International Union of Operating Engineers, Local 150 (Central Contracting Services, Inc.)"
+16-CA-271225,01/11/2021,Open,32,"Pasadena, TX","Region 16, Fort Worth, Texas",https://www.nlrb.gov/case/16-CA-271225,DuPont
+12-CA-271209,01/11/2021,Open,9,"Cocoa, FL","Region 12, Tampa, Florida",https://www.nlrb.gov/case/12-CA-271209,AT&T
+28-CA-271251,01/11/2021,Open,800,"Las Vegas, NV","Region 28, Phoenix, Arizona",https://www.nlrb.gov/case/28-CA-271251,"NP Boulder, LLC d/b/a Boulder Station Hotel & Casino"
+25-CA-271245,01/11/2021,Open,200,"Merrillville, IN","Region 25, Indianapolis, Indiana",https://www.nlrb.gov/case/25-CA-271245,Kuraray MonoSol
+25-CA-271289,01/11/2021,Open,30,"Rockford, IL","Region 25, Indianapolis, Indiana",https://www.nlrb.gov/case/25-CA-271289,United States Postal Service
+07-CA-271185,01/11/2021,Open,500,"Traverse City, MI","Region 07, Detroit, Michigan",https://www.nlrb.gov/case/07-CA-271185,Sara Lee Frozen Bakery
+07-CA-271239,01/11/2021,Closed,100,"Detroit, MI","Region 07, Detroit, Michigan",https://www.nlrb.gov/case/07-CA-271239,"Allied Universal Security Services, LLC"
+15-CA-271213,01/11/2021,Open,850,"Belle Chasse, LA","Region 15, New Orleans, Louisiana",https://www.nlrb.gov/case/15-CA-271213,Phillips 66
+06-CA-271249,01/11/2021,Open,150,"Hershey, PA","Region 06, Pittsburgh, Pennsylvania",https://www.nlrb.gov/case/06-CA-271249,Pennsylvania American Water Company
+13-CA-271261,01/11/2021,Open,34,"Chicago, IL","Region 13, Chicago, Illinois",https://www.nlrb.gov/case/13-CA-271261,Dill Pickle Food Co-op
+20-CA-271234,01/11/2021,Open,150,"San Francisco, CA","Region 20, San Francisco, California",https://www.nlrb.gov/case/20-CA-271234,SMG Moscone Center
+25-CA-271237,01/11/2021,Closed,75,"Rockford, IL","Region 25, Indianapolis, Indiana",https://www.nlrb.gov/case/25-CA-271237,United States Postal Service
+16-CA-271210,01/11/2021,Open,125,"Houston, TX","Region 16, Fort Worth, Texas",https://www.nlrb.gov/case/16-CA-271210,"Loomis, US"
+03-CA-271171,01/11/2021,Closed,8,"Rochester, NY","Region 03, Buffalo, New York",https://www.nlrb.gov/case/03-CA-271171,Family Dollar
+04-CA-271189,01/11/2021,Closed,400,"Hershey, PA","Region 04, Philadelphia, Pennsylvania",https://www.nlrb.gov/case/04-CA-271189,Hershey Entertainment
+27-CA-271228,01/11/2021,Open,12,"Broomfield, CO","Region 27, Denver, Colorado",https://www.nlrb.gov/case/27-CA-271228,King Soopers
+31-CA-271273,01/11/2021,Open,4,"Santa Clarita, CA","Region 31, Los Angeles, California",https://www.nlrb.gov/case/31-CA-271273,U Wash Doggie
+12-CA-271238,01/11/2021,Open,300,"Fort Lauderdale, FL","Region 12, Tampa, Florida",https://www.nlrb.gov/case/12-CA-271238,"International Longshoremen's Association, Local 1526"
+10-CA-271211,01/11/2021,Open,325,"Atlanta, GA","Region 10, Atlanta, Georgia",https://www.nlrb.gov/case/10-CA-271211,"1888 Mills, LLC"
+22-CA-271212,01/11/2021,Open,1600,"Kearny, NJ","Region 22, Newark, New Jersey",https://www.nlrb.gov/case/22-CA-271212,United States Postal Service
+02-CB-271335,01/11/2021,Open,100,"New York, NY","Region 02, New York, New York",https://www.nlrb.gov/case/02-CB-271335,32BJ SEIU (First Service Residential / Lincoln Towers Community Association)
+12-CA-271178,01/11/2021,Open,100,"San Juan, PR","Region 12, Tampa, Florida",https://www.nlrb.gov/case/12-CA-271178,United States Postal Service / Caribbean District / San Juan P&DC
+03-CA-271160,01/11/2021,Open,150,"Delmar, NY","Region 03, Buffalo, New York",https://www.nlrb.gov/case/03-CA-271160,Delmar Center for Rehabilitation and Nursing/The Lutheran Care Network (Joint Employer)
+05-CA-271288,01/11/2021,Closed,35,"Derwood, MD","Region 05, Baltimore, Maryland",https://www.nlrb.gov/case/05-CA-271288,Paragon Systems
+13-CA-271201,01/11/2021,Open,10,"Batavia, IL","Region 13, Chicago, Illinois",https://www.nlrb.gov/case/13-CA-271201,"Rogers Pump Sales & Service, Inc."
+16-CA-271217,01/11/2021,Open,125,"Houston, TX","Region 16, Fort Worth, Texas",https://www.nlrb.gov/case/16-CA-271217,"Loomis, US"
+19-CA-271231,01/11/2021,Open,500,"Monroe, WA","Region 19, Seattle, Washington",https://www.nlrb.gov/case/19-CA-271231,Washington State Department of Corrections / Monroe Correctional Complex
+21-CA-271269,01/11/2021,Open,282,"Los Angeles, CA","Region 21, Los Angeles, California",https://www.nlrb.gov/case/21-CA-271269,Watts Healthcare Corporation
+28-CA-271230,01/11/2021,Open,2500,"Las Vegas, NV","Region 28, Phoenix, Arizona",https://www.nlrb.gov/case/28-CA-271230,JT4 LLC
+09-CA-271355,01/11/2021,Open,200,"Oxford, OH","Region 09, Cincinnati, Ohio",https://www.nlrb.gov/case/09-CA-271355,Schneider Electric
+25-CA-271204,01/11/2021,Open,20,"Indianapolis, IN","Region 25, Indianapolis, Indiana",https://www.nlrb.gov/case/25-CA-271204,Capitol Street Surgery Center LLC
+28-CA-271252,01/11/2021,Open,30,"Roswell, NM","Region 28, Phoenix, Arizona",https://www.nlrb.gov/case/28-CA-271252,Superior Ambulance Inc.
+10-CA-271174,01/11/2021,Open,250,"Atlanta, GA","Region 10, Atlanta, Georgia",https://www.nlrb.gov/case/10-CA-271174,Country Home Bakers
+21-CA-271284,01/11/2021,Open,20,"San Diego, CA","Region 21, Los Angeles, California",https://www.nlrb.gov/case/21-CA-271284,COTA Inc
+27-CA-271224,01/11/2021,Open,12,"Broomfield, CO","Region 27, Denver, Colorado",https://www.nlrb.gov/case/27-CA-271224,King Soopers
+15-CA-271240,01/11/2021,Open,100,"Memphis, TN","Region 15, New Orleans, Louisiana",https://www.nlrb.gov/case/15-CA-271240,Pepsi Beverage Company
+20-CA-271258,01/11/2021,Open,13,"Sacramento, CA","Region 20, San Francisco, California",https://www.nlrb.gov/case/20-CA-271258,Kaiser Permanente Medical Group
+31-CA-271219,01/11/2021,Open,100,"Rancho Cucamonga, CA","Region 31, Los Angeles, California",https://www.nlrb.gov/case/31-CA-271219,Total Transportation Distribution Inc.
+02-CB-271120,01/08/2021,Open,500,"Bronx, NY","Region 02, New York, New York",https://www.nlrb.gov/case/02-CB-271120,1199SEIU National Healthcare Workers East (Kings Harbor Multicare Center)
+21-CB-271153,01/08/2021,Closed,900,"San Pedro, CA","Region 21, Los Angeles, California",https://www.nlrb.gov/case/21-CB-271153,IBEW Local 11 (Port of Los Angeles)
+21-CB-271151,01/08/2021,Closed,35,"Los Angeles, CA","Region 21, Los Angeles, California",https://www.nlrb.gov/case/21-CB-271151,TWU Local 577 (Allegiant)
+25-CA-271164,01/08/2021,Open,120,"Henning, IL","Region 25, Indianapolis, Indiana",https://www.nlrb.gov/case/25-CA-271164,Full-Fill Industries LLC
+28-CA-271222,01/08/2021,Open,19,"Las Vegas, NV","Region 28, Phoenix, Arizona",https://www.nlrb.gov/case/28-CA-271222,Griff's
+10-CA-271176,01/08/2021,Open,60,"Lenoir City, TN","Region 10, Atlanta, Georgia",https://www.nlrb.gov/case/10-CA-271176,"Janus Global, LLC"
+25-CA-271109,01/08/2021,Open,1000,"Indianapolis, IN","Region 25, Indianapolis, Indiana",https://www.nlrb.gov/case/25-CA-271109,United States Postal Service
+10-CB-271162,01/08/2021,Open,14,"Decatur, AL","Region 10, Atlanta, Georgia",https://www.nlrb.gov/case/10-CB-271162,Marine Engineer's Beneficial Association (Keystone Shipping Co.)
+07-CA-271172,01/08/2021,Open,500,"East China, MI","Region 07, Detroit, Michigan",https://www.nlrb.gov/case/07-CA-271172,Kiewit Corporation
+07-CA-271168,01/08/2021,Open,250,"Pontiac, MI","Region 07, Detroit, Michigan",https://www.nlrb.gov/case/07-CA-271168,GM CCA Pontiac
+06-CA-271170,01/08/2021,Open,80,"Glen Dale, WV","Region 06, Pittsburgh, Pennsylvania",https://www.nlrb.gov/case/06-CA-271170,"Tecnocap, LLC"
+08-CB-271144,01/08/2021,Open,1,"Lima, OH","Region 08, Cleveland, Ohio",https://www.nlrb.gov/case/08-CB-271144,UAW Local 1219 (Ford Motor Company)
+31-CA-271216,01/08/2021,Closed,130,"Los Angeles, CA","Region 31, Los Angeles, California",https://www.nlrb.gov/case/31-CA-271216,Sheraton Operating Corporation d/b/a W Hollywood Hotel
+16-CA-271183,01/08/2021,Open,5000,"Arlington, TX","Region 16, Fort Worth, Texas",https://www.nlrb.gov/case/16-CA-271183,General Motors Assembly Plant
+22-CA-271191,01/08/2021,Open,6,"Jersey City, NJ","Region 22, Newark, New Jersey",https://www.nlrb.gov/case/22-CA-271191,"ENTACT Services, LLC"
+20-CB-271198,01/08/2021,Open,70,"Cotati, CA","Region 20, San Francisco, California",https://www.nlrb.gov/case/20-CB-271198,"Nonprofit Professional Employees Union, IFTPE Local 70 (Animal Legal Defense Fund) Animal Legal Defense Fund"
+19-CA-271227,01/08/2021,Open,2000,"Richland, WA","Region 19, Seattle, Washington",https://www.nlrb.gov/case/19-CA-271227,"Mission Support Alliance, LLC"
+01-CA-271179,01/08/2021,Open,35,"Woonsocket, RI","Region 01, Boston, Massachusetts",https://www.nlrb.gov/case/01-CA-271179,"Stericycle, Inc."
+22-CA-271233,01/08/2021,Open,2,"Clifton, NJ","Region 22, Newark, New Jersey",https://www.nlrb.gov/case/22-CA-271233,"Latz, Inc."
+15-CA-271167,01/08/2021,Open,450,"Arabi, LA","Region 15, New Orleans, Louisiana",https://www.nlrb.gov/case/15-CA-271167,American Sugar Refining
+22-CA-271188,01/08/2021,Open,54,"Kearny, NJ","Region 22, Newark, New Jersey",https://www.nlrb.gov/case/22-CA-271188,KNY 26671 LLC d/b/a Cooperative Laundry
+22-CA-271218,01/08/2021,Open,6,"Weehawken, NJ","Region 22, Newark, New Jersey",https://www.nlrb.gov/case/22-CA-271218,"Planned Lifestyle Services, a part of Planned Companies"
+09-CA-271220,01/08/2021,Closed,5000,"Louisville, KY","Region 09, Cincinnati, Ohio",https://www.nlrb.gov/case/09-CA-271220,UPS
+01-CA-271134,01/08/2021,Open,15,"North Kingstown, RI","Region 01, Boston, Massachusetts",https://www.nlrb.gov/case/01-CA-271134,"Johnson Brothers of Rhode Island, Inc."
+16-CA-271143,01/08/2021,Open,18,"Austin, TX","Region 16, Fort Worth, Texas",https://www.nlrb.gov/case/16-CA-271143,Tillery Kitchen and Bar
+16-CA-271196,01/08/2021,Open,300,"San Antonio, TX","Region 16, Fort Worth, Texas",https://www.nlrb.gov/case/16-CA-271196,AT&T Telephone
+08-CB-271140,01/08/2021,Open,100,"Toledo, OH","Region 08, Cleveland, Ohio",https://www.nlrb.gov/case/08-CB-271140,"UAW Local 12, Region 2B (Dana Incorporated)"
+22-CA-271223,01/08/2021,Open,3,"Harrison, NJ","Region 22, Newark, New Jersey",https://www.nlrb.gov/case/22-CA-271223,"Planned Lifestyle Services, a part of Planned Companies"
+18-CB-271126,01/08/2021,Closed,300,"Waupaca, WI","Region 18, Minneapolis, Minnesota",https://www.nlrb.gov/case/18-CB-271126,United Steelworkers Local 2-550 (Gusmer Enterprises)
+31-CA-271206,01/08/2021,Open,500,"Boron, CA","Region 31, Los Angeles, California",https://www.nlrb.gov/case/31-CA-271206,U.S. Borax Inc.
+29-CA-271173,01/08/2021,Open,450,"White Plains, NY","Region 29, Brooklyn, New York",https://www.nlrb.gov/case/29-CA-271173,"Michael Stapleton Associates, Ltd dba MSA Security"
+04-CA-271121,01/08/2021,Open,5,"Newfield, NJ","Region 04, Philadelphia, Pennsylvania",https://www.nlrb.gov/case/04-CA-271121,Mark Amechi's Fencemax LLC
+08-CA-271139,01/08/2021,Open,115,"Oak Harbor, OH","Region 08, Cleveland, Ohio",https://www.nlrb.gov/case/08-CA-271139,Energy Harbor
+32-CB-271141,01/08/2021,Open,3,"Tulare, CA","Region 32, Oakland, California",https://www.nlrb.gov/case/32-CB-271141,"International Association of Machinists and Aerospace Workers, AFL-CIO, District Lodge 725 and Local Lodge 2947 (Delaware Resource Group of Oklahoma, LLC)"
+16-CB-271146,01/08/2021,Open,5000,"Arlington, TX","Region 16, Fort Worth, Texas",https://www.nlrb.gov/case/16-CB-271146,United Auto Workers Local 276 (General Motors Assembly Plant)
+08-CA-271137,01/08/2021,Open,130,"East Liverpool, OH","Region 08, Cleveland, Ohio",https://www.nlrb.gov/case/08-CA-271137,East Liverpool City Hospital and Prime Healthcare
+22-CA-271232,01/08/2021,Open,1,"Clifton, NJ","Region 22, Newark, New Jersey",https://www.nlrb.gov/case/22-CA-271232,"Latz, Inc."
+10-CA-271110,01/08/2021,Open,25,"Dillon, SC","Region 10, Atlanta, Georgia",https://www.nlrb.gov/case/10-CA-271110,United States Postal Service
+08-CB-271142,01/08/2021,Open,2,"Cleveland, OH","Region 08, Cleveland, Ohio",https://www.nlrb.gov/case/08-CB-271142,American Postal Workers Union Local 72 (United States Postal Service)
+07-CB-271115,01/08/2021,Open,500,"Traverse City, MI","Region 07, Detroit, Michigan",https://www.nlrb.gov/case/07-CB-271115,"Local 81, Bakery, Confectionery, Tobacco Workers and Grain Millers International Union, AFL-CIO, CLC (Sara Lee Frozen Bakery)"
+02-CB-271235,01/08/2021,Open,85,"New York, NY","Region 02, New York, New York",https://www.nlrb.gov/case/02-CB-271235,Local 32BJ SEIU (Triangle Services)
+20-CB-271148,01/08/2021,Open,450,"San Francisco, CA","Region 20, San Francisco, California",https://www.nlrb.gov/case/20-CB-271148,SEIU-USWW (ProTech Security Inc.)
+22-CA-271190,01/08/2021,Open,6,"Jersey City, NJ","Region 22, Newark, New Jersey",https://www.nlrb.gov/case/22-CA-271190,"ENTACT Services, LLC"
+01-CA-271169,01/08/2021,Open,24,"Pawtucket, RI","Region 01, Boston, Massachusetts",https://www.nlrb.gov/case/01-CA-271169,"Stericycle, Inc. d/b/a Shred It"
+16-CA-271131,01/08/2021,Open,16000,"Shenandoah, TX","Region 16, Fort Worth, Texas",https://www.nlrb.gov/case/16-CA-271131,Kroger Texas L.P.
+25-CA-271195,01/08/2021,Open,39,"Indianapolis, IN","Region 25, Indianapolis, Indiana",https://www.nlrb.gov/case/25-CA-271195,National Association of Letter Carriers
+19-CA-271194,01/08/2021,Open,70,"Eugene, OR","Region 19, Seattle, Washington",https://www.nlrb.gov/case/19-CA-271194,Marleys Monsters
+19-CB-271149,01/08/2021,Closed,1,"Portland, OR","Region 19, Seattle, Washington",https://www.nlrb.gov/case/19-CB-271149,National Postal Mail Handlers Union Local 315 (United States Postal Service)
+21-CA-271277,01/08/2021,Open,37,"LOS ANGELES, CA","Region 21, Los Angeles, California",https://www.nlrb.gov/case/21-CA-271277,Verizon Select Services
+29-CA-271135,01/08/2021,Open,2,"Brooklyn, NY","Region 29, Brooklyn, New York",https://www.nlrb.gov/case/29-CA-271135,"PowerHouse Cultural Entertainment, Inc."
+01-CA-271181,01/08/2021,Open,150,"South Boston, MA","Region 01, Boston, Massachusetts",https://www.nlrb.gov/case/01-CA-271181,"DHL EXPRESS (USA), INC."
+25-CA-271166,01/08/2021,Open,11,"Davenport, IA","Region 25, Indianapolis, Indiana",https://www.nlrb.gov/case/25-CA-271166,"Troy Grove Quarry and Vermillion Quarry, a division of RiverStone Group, Inc."
+27-CA-271132,01/08/2021,Open,9,"North Salt Lake, UT","Region 27, Denver, Colorado",https://www.nlrb.gov/case/27-CA-271132,Johnson Controls
+04-CA-271136,01/08/2021,Closed,400,"Philadelphia, PA","Region 04, Philadelphia, Pennsylvania",https://www.nlrb.gov/case/04-CA-271136,SEPTA
+09-CA-271129,01/08/2021,Open,70,"Newport, KY","Region 09, Cincinnati, Ohio",https://www.nlrb.gov/case/09-CA-271129,UNITED STATES POSTAL SERVICE
+01-CA-271193,01/08/2021,Open,253,"Plympton, MA","Region 01, Boston, Massachusetts",https://www.nlrb.gov/case/01-CA-271193,SYSCO BOSTON LLC
+06-CA-271268,01/07/2021,Open,650,"Waynesburg, PA","Region 06, Pittsburgh, Pennsylvania",https://www.nlrb.gov/case/06-CA-271268,"Contura Energy Services, LLC d/b/a Cumberland Contura Mine"
+10-CE-271046,01/07/2021,Open,1,"North Charleston, SC","Region 10, Atlanta, Georgia",https://www.nlrb.gov/case/10-CE-271046,"International Longshoremen's Association, AFL-CIO, CLC and United States Maritime Alliance, Ltd."
+21-CB-271150,01/07/2021,Open,1000,"Anaheim, CA","Region 21, Los Angeles, California",https://www.nlrb.gov/case/21-CB-271150,SEIU United Services Workers West (Disneyland)
+01-CA-271111,01/07/2021,Open,20,"Waltham, MA","Region 01, Boston, Massachusetts",https://www.nlrb.gov/case/01-CA-271111,CALLAHAN CONSTRUCTION MANAGERS
+10-CE-271052,01/07/2021,Open,1,"North Charleston, SC","Region 10, Atlanta, Georgia",https://www.nlrb.gov/case/10-CE-271052,"International Longshoremen's Association, AFL-CIO, CLC and United States Maritime Alliance, Ltd."
+05-CA-271161,01/07/2021,Open,1100,"Sandston, VA","Region 05, Baltimore, Maryland",https://www.nlrb.gov/case/05-CA-271161,United States Postal Service
+12-CA-271088,01/07/2021,Open,2800,"Plantation, FL","Region 12, Tampa, Florida",https://www.nlrb.gov/case/12-CA-271088,Plantation General Hospital
+01-CA-271105,01/07/2021,Open,42,"Greenville, RI","Region 01, Boston, Massachusetts",https://www.nlrb.gov/case/01-CA-271105,"DURHAM SCHOOL SERVICES, LP"
+12-CA-271116,01/07/2021,Open,20,"Vega Baja, PR","Region 12, Tampa, Florida",https://www.nlrb.gov/case/12-CA-271116,United States Postal Service Caribbean District
+13-CA-271094,01/07/2021,Open,30,"Downers Grove, IL","Region 13, Chicago, Illinois",https://www.nlrb.gov/case/13-CA-271094,5100 Main Street Peet''s Coffee
+05-CB-271229,01/07/2021,Open,55,"Falls Church, VA","Region 05, Baltimore, Maryland",https://www.nlrb.gov/case/05-CB-271229,American Postal Workers Union (United States Postal Service)
+07-CA-271177,01/07/2021,Open,100,"New Hudson, MI","Region 07, Detroit, Michigan",https://www.nlrb.gov/case/07-CA-271177,Ulta Equipment Company
+10-CA-271083,01/07/2021,Open - Blocked,100,"Stanley, NC","Region 10, Atlanta, Georgia",https://www.nlrb.gov/case/10-CA-271083,"Blum, Inc."
+05-CA-271107,01/07/2021,Closed,500,"Baltimore, MD","Region 05, Baltimore, Maryland",https://www.nlrb.gov/case/05-CA-271107,United States Postal Service
+10-CE-271047,01/07/2021,Open,1,"North Charleston, SC","Region 10, Atlanta, Georgia",https://www.nlrb.gov/case/10-CE-271047,"International Longshoremen's Association, Local 1422 and United States Maritime Alliance, Ltd."
+21-CA-271124,01/07/2021,Open,400,"Moreno Valley, CA","Region 21, Los Angeles, California",https://www.nlrb.gov/case/21-CA-271124,"UNFI West, Inc. a/k/a United Natural Foods, Inc."
+15-CA-271114,01/07/2021,Open,12,"Belle Chasse, LA","Region 15, New Orleans, Louisiana",https://www.nlrb.gov/case/15-CA-271114,UNITED STATES POSTAL SERVICE
+25-CA-271093,01/07/2021,Open,100,"Rockford, IL","Region 25, Indianapolis, Indiana",https://www.nlrb.gov/case/25-CA-271093,United States Postal Service
+09-CA-271096,01/07/2021,Open,75,"Cincinnati, OH","Region 09, Cincinnati, Ohio",https://www.nlrb.gov/case/09-CA-271096,GUERBET
+21-CA-271122,01/07/2021,Closed,400,"Moreno Valley, CA","Region 21, Los Angeles, California",https://www.nlrb.gov/case/21-CA-271122,"UNFI West, Inc., a/k/a United Natural Foods, Inc."
+15-CA-271119,01/07/2021,Open,12,"Belle Chasse, LA","Region 15, New Orleans, Louisiana",https://www.nlrb.gov/case/15-CA-271119,UNITED STATES POSTAL SERVICE
+08-CA-271070,01/07/2021,Open,10,"Brooklyn, OH","Region 08, Cleveland, Ohio",https://www.nlrb.gov/case/08-CA-271070,"Great Work Employment Services, Inc. and HKM Direct Market Communications, as joint employers"
+01-CA-271127,01/07/2021,Open,20,"Waltham, MA","Region 01, Boston, Massachusetts",https://www.nlrb.gov/case/01-CA-271127,CALLAHAN CONSTRUCTION MANAGERS
+31-CB-271133,01/07/2021,Open,800,"Marina Del Rey, CA","Region 31, Los Angeles, California",https://www.nlrb.gov/case/31-CB-271133,SEIU-United Healthcare Workers West (Marina Del Rey Hospital)
+09-CA-271100,01/07/2021,Open,100,"Columbus, OH","Region 09, Cincinnati, Ohio",https://www.nlrb.gov/case/09-CA-271100,"ORTHOPEDIC ONE, INC."
