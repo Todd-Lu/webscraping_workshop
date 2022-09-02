@@ -34,7 +34,7 @@ apply_button = driver.find_element_by_css_selector('#edit-submit')
 apply_button.click()                                                   
 
 
-# set up function that collects what we want
+# set up function that collects what we want from the page
 
 def nlrb_page_to_csv(driver):
         
@@ -46,7 +46,7 @@ def nlrb_page_to_csv(driver):
         charged_list.append(element.text)
     
         #get list of url links to court cases                                                    
-    casenum_elemlist = driver.find_elements_by_css_selector('#nlrb_cases_main a')
+    casenum_elemlist = driver.find_elements_by_css_selector('.rer-style-1 a')
     casenum_links_list = []
     
     for element in casenum_elemlist:
@@ -99,7 +99,8 @@ for page_num in range(0, end_page + 1):
                          encoding = 'utf-8')
         
     next_page_button = driver.find_elements_by_css_selector('.pager__item--next span')[1]
-    next_page_button.click()    
+    next_page_button.click()
+    print('Finished scraping page. Now pausing before going to next page')    
     time.sleep(random.uniform(2.5, 7))
 
 
